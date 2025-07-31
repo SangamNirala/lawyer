@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "requestMethod": "POST",
+        "url": "https://api.pdf.co/v1/pdf/convert/to/html",
+        "jsonParameters": false,
+        "options": {},
+        "sendBinaryData": true,
+        "binaryPropertyName": "data",
+        "headerParametersUi": {
+          "parameter": [
+            {
+              "name": "x-api-key",
+              "value": "shubhnirala123@gmail.com_Gb315VzPfCSoeeeIrXIYI0GYmCnpV6RPLl5zz8mIvnADTTIoAtbfuEkjiXEOQPK1"
+            }
+          ]
+        },
+        "bodyContentType": "multipart-form-data"
+      },
+      "name": "Convert PDF to HTML",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        600,
+        300
+      ]
+    }
+  ]
+}
