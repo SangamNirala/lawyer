@@ -938,6 +938,12 @@ function App() {
   const Hero = () => (
     <div className="relative bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900 text-white py-16 px-6">
       <div className="absolute inset-0 bg-black/20"></div>
+      
+      {/* Language Switcher in top right */}
+      <div className="absolute top-4 right-4 z-10">
+        <LanguageSwitcher userId={userId} showLabel={false} className="bg-white/10 backdrop-blur-sm" />
+      </div>
+      
       <div className="relative max-w-6xl mx-auto text-center">
         <div className="mb-8">
           <img 
@@ -947,11 +953,10 @@ function App() {
           />
         </div>
         <h1 className="text-5xl font-bold mb-4">
-          LegalMate AI
+          {t('app.title', 'LegalMate AI')}
         </h1>
         <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-          Generate professional, jurisdiction-specific legal contracts in minutes using advanced AI. 
-          Perfect for freelancers, agencies, and small businesses.
+          {t('app.subtitle', 'Generate professional, jurisdiction-specific legal contracts in minutes using advanced AI. Perfect for freelancers, agencies, and small businesses.')}
         </p>
         
         {/* New: Contract Creation Options */}
