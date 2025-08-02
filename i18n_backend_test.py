@@ -2,6 +2,10 @@ import requests
 import sys
 import json
 from datetime import datetime
+import urllib3
+
+# Disable SSL warnings for testing
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class I18nAPITester:
     def __init__(self, base_url="https://1bb7b842-04a0-4c23-b5a7-2b679a028fd4.preview.emergentagent.com"):
