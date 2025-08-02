@@ -1093,7 +1093,7 @@ const LegalQuestionAnswering = () => {
               <span>Sample Questions</span>
               <span className="text-xs text-gray-500">
                 {communicationMode === 'auto_detect' ? 
-                  (detectedSophistication?.sophistication_level.replace('_', ' ') || 'General') :
+                  (detectedSophistication?.sophistication_level?.replace('_', ' ') || 'General') :
                   communicationMode.replace('_', ' ')
                 } mode
               </span>
