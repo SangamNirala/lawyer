@@ -941,7 +941,7 @@ function App() {
       
       {/* Language Switcher in top right */}
       <div className="absolute top-4 right-4 z-10">
-        {/* <LanguageSwitcher userId={userId} showLabel={false} className="bg-white/10 backdrop-blur-sm" /> */}
+        <LanguageSwitcher userId={userId} showLabel={false} className="bg-white/10 backdrop-blur-sm" />
       </div>
       
       <div className="relative max-w-6xl mx-auto text-center">
