@@ -18,7 +18,12 @@ import AnalyticsDashboard from './components/AnalyticsDashboard';
 import PlainEnglishContractCreator from './components/PlainEnglishContractCreator';
 import LegalQuestionAnswering from './components/LegalQuestionAnswering';
 import ResizeObserverErrorBoundary from './components/ResizeObserverErrorBoundary';
+import LanguageSwitcher from './components/LanguageSwitcher';
 import { FileText, Zap, Shield, Users, CheckCircle, AlertTriangle, Download, Eye, Calendar, Sparkles, Wand2, Clock, BarChart3, MessageSquare, Scale } from 'lucide-react';
+
+// Import i18n configuration
+import './i18n';
+import { useTranslation } from 'react-i18next';
 
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
 const API = `${BACKEND_URL}/api`;
