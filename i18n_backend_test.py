@@ -21,11 +21,11 @@ class I18nAPITester:
         
         try:
             if method == 'GET':
-                response = requests.get(url, headers=headers, timeout=timeout)
+                response = requests.get(url, headers=headers, timeout=timeout, verify=False)
             elif method == 'POST':
-                response = requests.post(url, json=data, headers=headers, timeout=timeout)
+                response = requests.post(url, json=data, headers=headers, timeout=timeout, verify=False)
             elif method == 'DELETE':
-                response = requests.delete(url, headers=headers, timeout=timeout)
+                response = requests.delete(url, headers=headers, timeout=timeout, verify=False)
 
             print(f"   Status: {response.status_code}")
             
