@@ -1,0 +1,55 @@
+{
+  "legal_terms": {
+    "jurisdiction": "Gerichtsbarkeit",
+    "governing_law": "Anwendbares Recht",
+    "dispute_resolution": "Streitbeilegung",
+    "termination": "Kündigung",
+    "confidentiality": "Vertraulichkeit",
+    "intellectual_property": "Geistiges Eigentum",
+    "limitation_of_liability": "Haftungsbeschränkung",
+    "indemnification": "Schadloshaltung",
+    "force_majeure": "Höhere Gewalt",
+    "entire_agreement": "Gesamtvertrag",
+    "amendment": "Änderung",
+    "severability": "Teilbarkeit",
+    "waiver": "Verzicht",
+    "assignment": "Abtretung",
+    "notices": "Mitteilungen"
+  },
+  "contract_clauses": {
+    "scope_of_work": "Arbeitsumfang",
+    "payment_terms": "Zahlungsbedingungen",
+    "delivery_schedule": "Lieferplan",
+    "warranties": "Gewährleistungen",
+    "representations": "Zusicherungen",
+    "compliance": "Compliance",
+    "insurance": "Versicherung",
+    "background_check": "Hintergrundprüfung",
+    "non_compete": "Wettbewerbsverbot",
+    "non_solicitation": "Abwerbeverbot"
+  },
+  "jurisdictions": {
+    "US": "Vereinigte Staaten",
+    "UK": "Vereinigtes Königreich",
+    "EU": "Europäische Union",
+    "CA": "Kanada",
+    "AU": "Australien",
+    "DE": "Deutschland",
+    "FR": "Frankreich",
+    "JP": "Japan",
+    "SG": "Singapur",
+    "IN": "Indien"
+  },
+  "industries": {
+    "technology": "Technologie",
+    "healthcare": "Gesundheitswesen",
+    "finance": "Finanzen",
+    "education": "Bildung",
+    "manufacturing": "Fertigung",
+    "retail": "Einzelhandel",
+    "consulting": "Beratung",
+    "real_estate": "Immobilien",
+    "media": "Medien und Unterhaltung",
+    "non_profit": "Gemeinnützig"
+  }
+}
