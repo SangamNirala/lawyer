@@ -1,0 +1,93 @@
+{
+  "app": {
+    "title": "Legal AI Platform",
+    "subtitle": "Professional Contract Generation & Legal Analysis",
+    "welcome": "Welcome to Legal AI Platform"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "contracts": "Contracts",
+    "analytics": "Analytics",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "reset": "Reset",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import",
+    "download": "Download",
+    "upload": "Upload",
+    "view": "View",
+    "copy": "Copy",
+    "share": "Share",
+    "print": "Print"
+  },
+  "forms": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "password": "Password must be at least 8 characters",
+    "confirm_password": "Passwords do not match",
+    "phone": "Please enter a valid phone number",
+    "name": "Please enter your full name",
+    "company": "Please enter your company name",
+    "address": "Please enter a valid address"
+  },
+  "contract": {
+    "types": {
+      "NDA": "Non-Disclosure Agreement",
+      "employment_agreement": "Employment Agreement",
+      "freelance_agreement": "Freelance Agreement",
+      "partnership_agreement": "Partnership Agreement",
+      "consulting_agreement": "Consulting Agreement",
+      "software_license": "Software License Agreement",
+      "vendor_agreement": "Vendor Agreement",
+      "lease_agreement": "Lease Agreement",
+      "service_agreement": "Service Agreement"
+    },
+    "status": {
+      "draft": "Draft",
+      "review": "Under Review",
+      "active": "Active",
+      "expired": "Expired",
+      "terminated": "Terminated"
+    },
+    "actions": {
+      "generate": "Generate Contract",
+      "analyze": "Analyze Contract",
+      "review": "Review Contract",
+      "sign": "Sign Contract",
+      "download": "Download Contract",
+      "share": "Share Contract"
+    }
+  },
+  "language": {
+    "select": "Select Language",
+    "current": "Current Language",
+    "change": "Change Language",
+    "auto_detect": "Auto-detect",
+    "browser_default": "Browser Default"
+  }
+}

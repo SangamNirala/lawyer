@@ -1,0 +1,93 @@
+{
+  "app": {
+    "title": "Rechtliche KI-Plattform",
+    "subtitle": "Professionelle Vertragserstellung und Rechtsanalyse",
+    "welcome": "Willkommen bei der Rechtlichen KI-Plattform"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "contracts": "Verträge",
+    "analytics": "Analysen",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "logout": "Abmelden"
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "update": "Aktualisieren",
+    "confirm": "Bestätigen",
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "success": "Erfolgreich",
+    "warning": "Warnung",
+    "info": "Information",
+    "yes": "Ja",
+    "no": "Nein",
+    "ok": "OK",
+    "close": "Schließen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "submit": "Absenden",
+    "reset": "Zurücksetzen",
+    "search": "Suchen",
+    "filter": "Filter",
+    "sort": "Sortieren",
+    "export": "Exportieren",
+    "import": "Importieren",
+    "download": "Herunterladen",
+    "upload": "Hochladen",
+    "view": "Anzeigen",
+    "copy": "Kopieren",
+    "share": "Teilen",
+    "print": "Drucken"
+  },
+  "forms": {
+    "required": "Dieses Feld ist erforderlich",
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "password": "Das Passwort muss mindestens 8 Zeichen lang sein",
+    "confirm_password": "Die Passwörter stimmen nicht überein",
+    "phone": "Bitte geben Sie eine gültige Telefonnummer ein",
+    "name": "Bitte geben Sie Ihren vollständigen Namen ein",
+    "company": "Bitte geben Sie Ihren Firmennamen ein",
+    "address": "Bitte geben Sie eine gültige Adresse ein"
+  },
+  "contract": {
+    "types": {
+      "NDA": "Geheimhaltungsvereinbarung",
+      "employment_agreement": "Arbeitsvertrag",
+      "freelance_agreement": "Freelancer-Vertrag",
+      "partnership_agreement": "Partnerschaftsvertrag",
+      "consulting_agreement": "Beratungsvertrag",
+      "software_license": "Software-Lizenz",
+      "vendor_agreement": "Lieferantenvertrag",
+      "lease_agreement": "Mietvertrag",
+      "service_agreement": "Dienstleistungsvertrag"
+    },
+    "status": {
+      "draft": "Entwurf",
+      "review": "In Überprüfung",
+      "active": "Aktiv",
+      "expired": "Abgelaufen",
+      "terminated": "Beendet"
+    },
+    "actions": {
+      "generate": "Vertrag Erstellen",
+      "analyze": "Vertrag Analysieren",
+      "review": "Vertrag Überprüfen",
+      "sign": "Vertrag Unterzeichnen",
+      "download": "Vertrag Herunterladen",
+      "share": "Vertrag Teilen"
+    }
+  },
+  "language": {
+    "select": "Sprache Auswählen",
+    "current": "Aktuelle Sprache",
+    "change": "Sprache Ändern",
+    "auto_detect": "Automatisch Erkennen",
+    "browser_default": "Browser-Standard"
+  }
+}
