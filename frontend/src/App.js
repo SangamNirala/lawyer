@@ -295,6 +295,8 @@ const TermsStep = ({ contractData, contractTypes, updateTerms, setContractData, 
 );
 
 function App() {
+  const { t } = useTranslation('common');
+  
   const [contractTypes, setContractTypes] = useState([]);
   const [jurisdictions, setJurisdictions] = useState([]);
   const [currentStep, setCurrentStep] = useState(1);
@@ -313,11 +315,17 @@ function App() {
   const [showAnalytics, setShowAnalytics] = useState(false);
   const [showPlainEnglishCreator, setShowPlainEnglishCreator] = useState(false);
   const [showLegalQA, setShowLegalQA] = useState(false);
+  const [userId, setUserId] = useState(null);
 
   useEffect(() => {
     loadContractTypes();
     loadJurisdictions();
     loadContracts();
+    
+    // Initialize user ID (in a real app, this would come from authentication)
+    const storedUserId = localStorage.getItem('userId') || 'demo-user-' + Date.now();
+    localStorage.setItem('userId', storedUserId);
+    setUserId(storedUserId);
   }, []);
 
   // Simplified ResizeObserver console error suppression
