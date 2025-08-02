@@ -794,7 +794,7 @@ const LegalQuestionAnswering = () => {
               <div className="flex items-center justify-center space-x-2 text-sm">
                 <Zap className="w-4 h-4 text-purple-600" />
                 <span className="text-purple-800">
-                  Auto-detected: <strong>{detectedSophistication.sophistication_level.replace('_', ' ')}</strong>
+                  Auto-detected: <strong>{detectedSophistication?.sophistication_level?.replace('_', ' ') || 'General'}</strong>
                 </span>
                 <span className="text-purple-600">
                   ({Math.round(detectedSophistication.confidence_score * 100)}% confidence)
