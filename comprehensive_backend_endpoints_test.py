@@ -5,7 +5,7 @@ from datetime import datetime
 
 def test_professional_integrations_endpoints():
     """Test Professional Integrations Framework endpoints"""
-    base_url = "https://c65244e7-595d-4c7e-be40-53ada5dac5ce.preview.emergentagent.com"
+    base_url = "https://6efbdddb-fb11-40c8-a938-db4ceea52a2c.preview.emergentagent.com"
     api_url = f"{base_url}/api"
     
     print("🔧 PROFESSIONAL INTEGRATIONS FRAMEWORK TESTS")
@@ -102,7 +102,7 @@ def test_professional_integrations_endpoints():
 
 def test_professional_api_ecosystem_endpoints():
     """Test Professional API Ecosystem endpoints"""
-    base_url = "https://c65244e7-595d-4c7e-be40-53ada5dac5ce.preview.emergentagent.com"
+    base_url = "https://6efbdddb-fb11-40c8-a938-db4ceea52a2c.preview.emergentagent.com"
     api_url = f"{base_url}/api"
     
     print("\n🔧 PROFESSIONAL API ECOSYSTEM TESTS")
@@ -185,7 +185,7 @@ def test_professional_api_ecosystem_endpoints():
 
 def test_legal_workflow_automation_endpoints():
     """Test Legal Workflow Automation endpoints"""
-    base_url = "https://c65244e7-595d-4c7e-be40-53ada5dac5ce.preview.emergentagent.com"
+    base_url = "https://6efbdddb-fb11-40c8-a938-db4ceea52a2c.preview.emergentagent.com"
     api_url = f"{base_url}/api"
     
     print("\n🔧 LEGAL WORKFLOW AUTOMATION TESTS")
@@ -293,7 +293,7 @@ def test_legal_workflow_automation_endpoints():
 
 def test_marketplace_partnership_endpoints():
     """Test Marketplace & Partnership Ecosystem endpoints"""
-    base_url = "https://c65244e7-595d-4c7e-be40-53ada5dac5ce.preview.emergentagent.com"
+    base_url = "https://6efbdddb-fb11-40c8-a938-db4ceea52a2c.preview.emergentagent.com"
     api_url = f"{base_url}/api"
     
     print("\n🔧 MARKETPLACE & PARTNERSHIP ECOSYSTEM TESTS")
