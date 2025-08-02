@@ -280,15 +280,18 @@ backend:
 
   - task: "Professional Integrations Framework - Integration Activation Endpoint"
     implemented: true
-    working: "NA"
+    working: false
     file: "/app/backend/server.py"
-    stuck_count: 0
+    stuck_count: 1
     priority: "high"
-    needs_retesting: true
+    needs_retesting: false
     status_history:
         -working: "NA"
         -agent: "main"
         -comment: "Implemented POST /api/integrations/activate endpoint for activating specific integrations with configuration overrides. Tests connection, manages authentication, and returns activation status with capabilities."
+        -working: false
+        -agent: "testing"
+        -comment: "❌ TESTED AND NOT WORKING: POST /api/integrations/activate endpoint returning 502 Bad Gateway errors. Same issue as integration status endpoint - server-side error likely due to professional integrations framework module issues."
 
   - task: "Professional Integrations Framework - Integration Action Endpoint"
     implemented: true
