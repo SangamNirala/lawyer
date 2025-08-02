@@ -110,14 +110,13 @@ languageDetector.addDetector({
   
   async: true,
   
-  detect: async function(callback) {
+  lookup: async function(options) {
     // Try to get user preference from localStorage first
     const storedUserId = localStorage.getItem('userId');
     const storedLanguage = localStorage.getItem('userLanguage');
     
     if (storedUserId && storedLanguage) {
-      callback(storedLanguage);
-      return;
+      return storedLanguage;
     }
     
     // If user is logged in, try to get their preference from backend
@@ -126,8 +125,7 @@ languageDetector.addDetector({
         const userLanguage = await UserLanguagePreferences.getUserLanguage(storedUserId);
         if (userLanguage) {
           localStorage.setItem('userLanguage', userLanguage);
-          callback(userLanguage);
-          return;
+          return userLanguage;
         }
       } catch (error) {
         console.warn('Failed to detect user language preference:', error);
@@ -139,7 +137,7 @@ languageDetector.addDetector({
     const supportedLanguages = ['en', 'es', 'fr', 'de'];
     const detectedLang = browserLang.split('-')[0];
     
-    callback(supportedLanguages.includes(detectedLang) ? detectedLang : 'en');
+    return supportedLanguages.includes(detectedLang) ? detectedLang : 'en';
   }
 });
 
