@@ -12505,4 +12505,270 @@ async def legal_billing_optimization_analytics(
 # ====================================================================================================
 
 # Include all API routes in the main app (after ALL endpoints are defined)
+# Import translation service
+try:
+    from translation_service import get_translation_service, translation_service
+    TRANSLATION_SERVICE_AVAILABLE = True
+except ImportError as e:
+    logger.warning(f"Translation service not available: {e}")
+    TRANSLATION_SERVICE_AVAILABLE = False
+
+# Internationalization API Models
+class TranslationRequest(BaseModel):
+    text: str
+    target_language: str
+    context: str = "general"
+
+class TranslationResponse(BaseModel):
+    original_text: str
+    translated_text: str
+    target_language: str
+    confidence: float
+    validation_result: Dict[str, Any]
+
+class BulkTranslationRequest(BaseModel):
+    namespace: str
+    target_language: str
+
+class LanguagePreferenceRequest(BaseModel):
+    user_id: str
+    language: str
+
+# Update UserProfile model to include language preference
+async def update_user_language_preference(user_id: str, language: str) -> bool:
+    """Update user's language preference in database"""
+    try:
+        result = await db.user_profiles.update_one(
+            {"id": user_id},
+            {"$set": {"language_preference": language, "updated_at": datetime.utcnow()}}
+        )
+        return result.modified_count > 0
+    except Exception as e:
+        logger.error(f"Error updating user language preference: {e}")
+        return False
+
+async def get_user_language_preference(user_id: str) -> str:
+    """Get user's language preference from database"""
+    try:
+        user_profile = await db.user_profiles.find_one({"id": user_id})
+        if user_profile:
+            return user_profile.get("language_preference", "en")
+        return "en"
+    except Exception as e:
+        logger.error(f"Error getting user language preference: {e}")
+        return "en"
+
+# ===============================
+# INTERNATIONALIZATION ENDPOINTS
+# ===============================
+
+@api_router.get("/i18n/languages")
+async def get_supported_languages():
+    """Get list of supported languages"""
+    if not TRANSLATION_SERVICE_AVAILABLE:
+        raise HTTPException(status_code=503, detail="Translation service not available")
+    
+    try:
+        service = get_translation_service()
+        languages = service.get_supported_languages()
+        return {
+            "supported_languages": languages,
+            "default_language": "en",
+            "total_languages": len(languages)
+        }
+    except Exception as e:
+        logger.error(f"Error getting supported languages: {e}")
+        raise HTTPException(status_code=500, detail=f"Error getting languages: {str(e)}")
+
+@api_router.post("/i18n/languages")
+async def add_supported_language(language_code: str, language_name: str, native_name: str):
+    """Add new supported language (admin only)"""
+    # This endpoint would be for admin users to add new languages
+    # For now, return method not allowed as it requires admin authentication
+    raise HTTPException(status_code=405, detail="Method not implemented - requires admin authentication")
+
+@api_router.get("/i18n/translations/{language}/{namespace}")
+async def get_translations(language: str, namespace: str):
+    """Get translations for a specific language and namespace"""
+    if not TRANSLATION_SERVICE_AVAILABLE:
+        raise HTTPException(status_code=503, detail="Translation service not available")
+    
+    try:
+        service = get_translation_service()
+        translations = service.get_translations(language, namespace)
+        
+        if not translations:
+            raise HTTPException(
+                status_code=404, 
+                detail=f"No translations found for language '{language}' and namespace '{namespace}'"
+            )
+        
+        return {
+            "language": language,
+            "namespace": namespace,
+            "translations": translations,
+            "fallback_used": language != "en" and not translations
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error getting translations: {e}")
+        raise HTTPException(status_code=500, detail=f"Error getting translations: {str(e)}")
+
+@api_router.post("/i18n/translate")
+async def translate_text(request: TranslationRequest):
+    """Translate text using AI with legal validation"""
+    if not TRANSLATION_SERVICE_AVAILABLE:
+        raise HTTPException(status_code=503, detail="Translation service not available")
+    
+    try:
+        service = get_translation_service()
+        
+        # Generate AI translation
+        translated_text = await service.generate_ai_translation(
+            request.text, 
+            request.target_language, 
+            request.context
+        )
+        
+        # Validate translation
+        validation_result = await service.validate_legal_translation(
+            request.text,
+            translated_text,
+            request.target_language
+        )
+        
+        return TranslationResponse(
+            original_text=request.text,
+            translated_text=translated_text,
+            target_language=request.target_language,
+            confidence=validation_result.get("confidence", 0.8),
+            validation_result=validation_result
+        )
+    except Exception as e:
+        logger.error(f"Error translating text: {e}")
+        raise HTTPException(status_code=500, detail=f"Translation error: {str(e)}")
+
+@api_router.post("/i18n/translate-namespace")
+async def translate_namespace(request: BulkTranslationRequest):
+    """Translate an entire namespace using AI"""
+    if not TRANSLATION_SERVICE_AVAILABLE:
+        raise HTTPException(status_code=503, detail="Translation service not available")
+    
+    try:
+        service = get_translation_service()
+        
+        # Generate bulk translation
+        translated_content = await service.bulk_translate_namespace(
+            request.namespace,
+            request.target_language
+        )
+        
+        if not translated_content:
+            raise HTTPException(
+                status_code=404,
+                detail=f"No content found for namespace '{request.namespace}'"
+            )
+        
+        # Save translations
+        success = service.save_translations(
+            request.target_language,
+            request.namespace,
+            translated_content
+        )
+        
+        if not success:
+            raise HTTPException(
+                status_code=500,
+                detail="Failed to save translations"
+            )
+        
+        return {
+            "namespace": request.namespace,
+            "target_language": request.target_language,
+            "translations_count": len(str(translated_content).split()),
+            "success": success,
+            "message": f"Successfully translated {request.namespace} to {request.target_language}"
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error translating namespace: {e}")
+        raise HTTPException(status_code=500, detail=f"Bulk translation error: {str(e)}")
+
+@api_router.post("/i18n/user-language")
+async def set_user_language_preference(request: LanguagePreferenceRequest):
+    """Set user's language preference"""
+    try:
+        # Validate language is supported
+        if TRANSLATION_SERVICE_AVAILABLE:
+            service = get_translation_service()
+            supported_languages = [lang['code'] for lang in service.get_supported_languages()]
+            if request.language not in supported_languages:
+                raise HTTPException(
+                    status_code=400,
+                    detail=f"Language '{request.language}' is not supported"
+                )
+        
+        # Update user preference
+        success = await update_user_language_preference(request.user_id, request.language)
+        
+        if not success:
+            raise HTTPException(
+                status_code=404,
+                detail=f"User '{request.user_id}' not found or update failed"
+            )
+        
+        return {
+            "user_id": request.user_id,
+            "language": request.language,
+            "success": success,
+            "message": f"Language preference updated to {request.language}"
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error setting user language preference: {e}")
+        raise HTTPException(status_code=500, detail=f"Error updating language preference: {str(e)}")
+
+@api_router.get("/i18n/user-language/{user_id}")
+async def get_user_language_preference_endpoint(user_id: str):
+    """Get user's language preference"""
+    try:
+        language = await get_user_language_preference(user_id)
+        return {
+            "user_id": user_id,
+            "language": language,
+            "is_default": language == "en"
+        }
+    except Exception as e:
+        logger.error(f"Error getting user language preference: {e}")
+        raise HTTPException(status_code=500, detail=f"Error getting language preference: {str(e)}")
+
+@api_router.delete("/i18n/cache")
+async def clear_translation_cache(language: str = None, namespace: str = None):
+    """Clear translation cache"""
+    if not TRANSLATION_SERVICE_AVAILABLE:
+        raise HTTPException(status_code=503, detail="Translation service not available")
+    
+    try:
+        service = get_translation_service()
+        service.clear_cache(language, namespace)
+        
+        cache_scope = "all translations"
+        if language and namespace:
+            cache_scope = f"{language}:{namespace}"
+        elif language:
+            cache_scope = f"language {language}"
+        elif namespace:
+            cache_scope = f"namespace {namespace}"
+        
+        return {
+            "success": True,
+            "message": f"Successfully cleared cache for {cache_scope}"
+        }
+    except Exception as e:
+        logger.error(f"Error clearing translation cache: {e}")
+        raise HTTPException(status_code=500, detail=f"Error clearing cache: {str(e)}")
+
 app.include_router(api_router)
