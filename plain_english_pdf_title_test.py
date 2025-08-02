@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 
 class PlainEnglishPDFTitleTester:
-    def __init__(self, base_url="https://1bb7b842-04a0-4c23-b5a7-2b679a028fd4.preview.emergentagent.com"):
+    def __init__(self, base_url="https://c65244e7-595d-4c7e-be40-53ada5dac5ce.preview.emergentagent.com"):
         self.base_url = base_url
         self.api_url = f"{base_url}/api"
         self.tests_run = 0
