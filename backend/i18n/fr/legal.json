@@ -1,0 +1,55 @@
+{
+  "legal_terms": {
+    "jurisdiction": "Juridiction",
+    "governing_law": "Droit Applicable",
+    "dispute_resolution": "Résolution des Litiges",
+    "termination": "Résiliation",
+    "confidentiality": "Confidentialité",
+    "intellectual_property": "Propriété Intellectuelle",
+    "limitation_of_liability": "Limitation de Responsabilité",
+    "indemnification": "Indemnisation",
+    "force_majeure": "Force Majeure",
+    "entire_agreement": "Accord Intégral",
+    "amendment": "Amendement",
+    "severability": "Divisibilité",
+    "waiver": "Renonciation",
+    "assignment": "Cession",
+    "notices": "Notifications"
+  },
+  "contract_clauses": {
+    "scope_of_work": "Étendue du Travail",
+    "payment_terms": "Conditions de Paiement",
+    "delivery_schedule": "Planning de Livraison",
+    "warranties": "Garanties",
+    "representations": "Déclarations",
+    "compliance": "Conformité",
+    "insurance": "Assurance",
+    "background_check": "Vérification des Antécédents",
+    "non_compete": "Non-Concurrence",
+    "non_solicitation": "Non-Sollicitation"
+  },
+  "jurisdictions": {
+    "US": "États-Unis",
+    "UK": "Royaume-Uni",
+    "EU": "Union Européenne",
+    "CA": "Canada",
+    "AU": "Australie",
+    "DE": "Allemagne",
+    "FR": "France",
+    "JP": "Japon",
+    "SG": "Singapour",
+    "IN": "Inde"
+  },
+  "industries": {
+    "technology": "Technologie",
+    "healthcare": "Santé",
+    "finance": "Finance",
+    "education": "Éducation",
+    "manufacturing": "Fabrication",
+    "retail": "Commerce de Détail",
+    "consulting": "Conseil",
+    "real_estate": "Immobilier",
+    "media": "Médias et Divertissement",
+    "non_profit": "Sans But Lucratif"
+  }
+}

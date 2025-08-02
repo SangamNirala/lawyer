@@ -1,0 +1,86 @@
+{
+  "app": {
+    "title": "Plataforma de IA Legal",
+    "subtitle": "Generación Profesional de Contratos y Análisis Legal",
+    "welcome": "Bienvenido a la Plataforma de IA Legal"
+  },
+  "navigation": {
+    "dashboard": "Panel de Control",
+    "contracts": "Contratos",
+    "analytics": "Análisis",
+    "settings": "Configuración",
+    "profile": "Perfil",
+    "logout": "Cerrar Sesión"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "confirm": "Confirmar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "warning": "Advertencia",
+    "info": "Información",
+    "yes": "Sí",
+    "no": "No",
+    "ok": "OK",
+    "close": "Cerrar",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "reset": "Restablecer",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "export": "Exportar",
+    "import": "Importar",
+    "download": "Descargar",
+    "upload": "Subir",
+    "view": "Ver",
+    "copy": "Copiar",
+    "share": "Compartir",
+    "print": "Imprimir"
+  },
+  "forms": {
+    "required": "Este campo es obligatorio",
+    "email": "Por favor ingrese una dirección de correo válida",
+    "password": "La contraseña debe tener al menos 8 caracteres",
+    "confirm_password": "Las contraseñas no coinciden",
+    "phone": "Por favor ingrese un número de teléfono válido",
+    "name": "Por favor ingrese su nombre completo",
+    "company": "Por favor ingrese el nombre de su empresa",
+    "address": "Por favor ingrese una dirección válida"
+  },
+  "contract": {
+    "types": {
+      "NDA": "Acuerdo de Confidencialidad",
+      "employment_agreement": "Contrato de Trabajo",
+      "freelance_agreement": "Contrato de Trabajo Independiente",
+      "partnership_agreement": "Acuerdo de Sociedad",
+      "consulting_agreement": "Contrato de Consultoría",
+      "software_license": "Licencia de Software",
+      "vendor_agreement": "Acuerdo con Proveedor",
+      "lease_agreement": "Contrato de Arrendamiento",
+      "service_agreement": "Contrato de Servicios"
+    },
+    "status": {
+      "draft": "Borrador",
+      "review": "En Revisión",
+      "active": "Activo",
+      "expired": "Vencido",
+      "terminated": "Terminado"
+    },
+    "actions": {
+      "generate": "Generar Contrato",
+      "analyze": "Analizar Contrato",
+      "review": "Revisar Contrato",
+      "sign": "Firmar Contrato",
+      "download": "Descargar Contrato",
+      "share": "Compartir Contrato"
+    }
+  }
+}
