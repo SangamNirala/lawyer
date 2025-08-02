@@ -133,7 +133,7 @@ languageDetector.addDetector({
     }
     
     // Fallback to browser language detection
-    const browserLang = navigator.language || navigator.userLanguage;
+    const browserLang = navigator.language || navigator.userLanguage || 'en';
     const supportedLanguages = ['en', 'es', 'fr', 'de'];
     const detectedLang = browserLang.split('-')[0];
     
