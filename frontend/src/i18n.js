@@ -227,6 +227,7 @@ export const LanguageUtils = {
   ],
   
   getLanguageName: (code) => {
+    if (!code) return 'Unknown';
     const languages = LanguageUtils.getSupportedLanguages();
     const language = languages.find(lang => lang.code === code);
     return language ? language.nativeName : code;
