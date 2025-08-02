@@ -1,0 +1,55 @@
+{
+  "legal_terms": {
+    "jurisdiction": "Jurisdiction",
+    "governing_law": "Governing Law",
+    "dispute_resolution": "Dispute Resolution",
+    "termination": "Termination",
+    "confidentiality": "Confidentiality",
+    "intellectual_property": "Intellectual Property",
+    "limitation_of_liability": "Limitation of Liability",
+    "indemnification": "Indemnification",
+    "force_majeure": "Force Majeure",
+    "entire_agreement": "Entire Agreement",
+    "amendment": "Amendment",
+    "severability": "Severability",
+    "waiver": "Waiver",
+    "assignment": "Assignment",
+    "notices": "Notices"
+  },
+  "contract_clauses": {
+    "scope_of_work": "Scope of Work",
+    "payment_terms": "Payment Terms",
+    "delivery_schedule": "Delivery Schedule",
+    "warranties": "Warranties",
+    "representations": "Representations",
+    "compliance": "Compliance",
+    "insurance": "Insurance",
+    "background_check": "Background Check",
+    "non_compete": "Non-Compete",
+    "non_solicitation": "Non-Solicitation"
+  },
+  "jurisdictions": {
+    "US": "United States",
+    "UK": "United Kingdom",
+    "EU": "European Union",
+    "CA": "Canada",
+    "AU": "Australia",
+    "DE": "Germany",
+    "FR": "France",
+    "JP": "Japan",
+    "SG": "Singapore",
+    "IN": "India"
+  },
+  "industries": {
+    "technology": "Technology",
+    "healthcare": "Healthcare",
+    "finance": "Finance",
+    "education": "Education",
+    "manufacturing": "Manufacturing",
+    "retail": "Retail",
+    "consulting": "Consulting",
+    "real_estate": "Real Estate",
+    "media": "Media & Entertainment",
+    "non_profit": "Non-Profit"
+  }
+}
