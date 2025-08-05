@@ -1,0 +1,43 @@
+{
+  "expansion_summary": {
+    "completion_date": "2025-08-05T13:28:18.144548",
+    "original_documents": 25308,
+    "current_documents": 85311,
+    "new_documents_added": 60003,
+    "expansion_percentage": 237.0910384068279
+  },
+  "category_distribution": {
+    "supreme_court": 13000,
+    "regulations": 10052,
+    "miscellaneous": 4,
+    "constitutional_law": 11,
+    "contracts": 83,
+    "circuit_courts": 24000,
+    "academic": 11500,
+    "state_courts": 2018,
+    "district_courts": 16000,
+    "ip_law": 26,
+    "statutes": 8614
+  },
+  "date_range_distribution": {
+    "2023-2024": 20367,
+    "2021-2022": 19910,
+    "2025-future": 9051,
+    "2015-2018": 16042,
+    "2019-2020": 19938
+  },
+  "features": [
+    "Date-based organization (2015-2018, 2019-2020, 2021-2022, 2023-2024, 2025-future)",
+    "GitHub compliant (max 999 files per directory)",
+    "Batch organization for large collections",
+    "MongoDB integration for chatbot",
+    "High-quality synthetic documents",
+    "Real CourtListener API documents",
+    "Comprehensive legal domain coverage"
+  ],
+  "compliance": {
+    "github_directory_limit": true,
+    "mongodb_integration": true,
+    "organized_structure": true
+  }
+}
