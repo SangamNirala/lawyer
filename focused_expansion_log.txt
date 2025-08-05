@@ -5,3 +5,7 @@
 2025-08-05 18:44:06,535 - INFO - 📚 Phase 1: CourtListener Document Collection
 2025-08-05 18:44:06,535 - INFO - 🏛️ Collecting 6,000 documents from CourtListener...
 2025-08-05 18:44:06,771 - WARNING - API error 403
+2025-08-05 18:44:09,362 - WARNING - API error 403
+2025-08-05 18:44:11,475 - WARNING - API error 403
+2025-08-05 18:44:13,678 - WARNING - API error 403
+2025-08-05 18:44:16,641 - WARNING - API error 403
