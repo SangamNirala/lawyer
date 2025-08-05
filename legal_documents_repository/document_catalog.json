@@ -1,0 +1,384 @@
+{
+  "catalog_info": {
+    "created_at": "2025-08-05T12:12:30.228507",
+    "description": "Browsable catalog of legal documents"
+  },
+  "browse_by_category": {
+    "app": 1,
+    "statutes": 997
+  },
+  "browse_by_jurisdiction": {
+    "unknown": 1,
+    "us_federal": 968,
+    "india_central": 14,
+    "international": 6,
+    "india_maharashtra": 4,
+    "us_texas": 3,
+    "us_new_york": 2
+  },
+  "browse_by_legal_domain": {
+    "unknown": 1,
+    "administrative_law": 952,
+    "constitutional_law": 2,
+    "contract_law": 2,
+    "corporate_regulatory": 14,
+    "general_law": 3,
+    "civil_criminal_procedure": 10,
+    "employment_labor_law": 8,
+    "taxation_financial": 3,
+    "real_estate_law": 2,
+    "immigration_law": 1
+  },
+  "featured_documents": [
+    {
+      "id": "federal_statute_000568_20250805",
+      "title": "Legislative Standards and Implementation - Document #568",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000568_20250805.json"
+    },
+    {
+      "id": "federal_statute_001858_20250805",
+      "title": "Statutory Requirements and Compliance - Document #1858",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001858_20250805.json"
+    },
+    {
+      "id": "federal_statute_001079_20250805",
+      "title": "Administrative Law and Procedure - Document #1079",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001079_20250805.json"
+    },
+    {
+      "id": "federal_statute_002262_20250805",
+      "title": "Legislative Standards and Implementation - Document #2262",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002262_20250805.json"
+    },
+    {
+      "id": "federal_statute_000125_20250805",
+      "title": "Federal Regulatory Framework - Document #125",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000125_20250805.json"
+    },
+    {
+      "id": "federal_statute_001750_20250805",
+      "title": "Statutory Requirements and Compliance - Document #1750",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001750_20250805.json"
+    },
+    {
+      "id": "federal_statute_002484_20250805",
+      "title": "Statutory Requirements and Compliance - Document #2484",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002484_20250805.json"
+    },
+    {
+      "id": "federal_statute_000528_20250805",
+      "title": "Statutory Requirements and Compliance - Document #528",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000528_20250805.json"
+    },
+    {
+      "id": "federal_statute_001988_20250805",
+      "title": "Legislative Standards and Implementation - Document #1988",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001988_20250805.json"
+    },
+    {
+      "id": "federal_statute_002047_20250805",
+      "title": "Federal Agency Authority - Document #2047",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002047_20250805.json"
+    },
+    {
+      "id": "federal_statute_002083_20250805",
+      "title": "Statutory Requirements and Compliance - Document #2083",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002083_20250805.json"
+    },
+    {
+      "id": "federal_statute_000927_20250805",
+      "title": "Administrative Law and Procedure - Document #927",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000927_20250805.json"
+    },
+    {
+      "id": "federal_statute_001522_20250805",
+      "title": "Federal Regulatory Framework - Document #1522",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001522_20250805.json"
+    },
+    {
+      "id": "federal_statute_002248_20250805",
+      "title": "Federal Regulatory Framework - Document #2248",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002248_20250805.json"
+    },
+    {
+      "id": "federal_statute_000075_20250805",
+      "title": "Administrative Law and Procedure - Document #75",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000075_20250805.json"
+    },
+    {
+      "id": "federal_statute_000067_20250805",
+      "title": "Federal Agency Authority - Document #67",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000067_20250805.json"
+    },
+    {
+      "id": "federal_statute_000984_20250805",
+      "title": "Legislative Standards and Implementation - Document #984",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000984_20250805.json"
+    },
+    {
+      "id": "federal_statute_001170_20250805",
+      "title": "Administrative Law and Procedure - Document #1170",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001170_20250805.json"
+    },
+    {
+      "id": "federal_statute_001210_20250805",
+      "title": "Administrative Law and Procedure - Document #1210",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001210_20250805.json"
+    },
+    {
+      "id": "federal_statute_000232_20250805",
+      "title": "Statutory Requirements and Compliance - Document #232",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000232_20250805.json"
+    },
+    {
+      "id": "federal_statute_002398_20250805",
+      "title": "Legislative Standards and Implementation - Document #2398",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002398_20250805.json"
+    },
+    {
+      "id": "federal_statute_000058_20250805",
+      "title": "Legislative Standards and Implementation - Document #58",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000058_20250805.json"
+    },
+    {
+      "id": "federal_statute_001377_20250805",
+      "title": "Federal Regulatory Framework - Document #1377",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001377_20250805.json"
+    },
+    {
+      "id": "federal_statute_000860_20250805",
+      "title": "Statutory Requirements and Compliance - Document #860",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000860_20250805.json"
+    },
+    {
+      "id": "federal_statute_001163_20250805",
+      "title": "Statutory Requirements and Compliance - Document #1163",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001163_20250805.json"
+    },
+    {
+      "id": "federal_statute_000029_20250805",
+      "title": "Legislative Standards and Implementation - Document #29",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000029_20250805.json"
+    },
+    {
+      "id": "federal_statute_001094_20250805",
+      "title": "Statutory Requirements and Compliance - Document #1094",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001094_20250805.json"
+    },
+    {
+      "id": "federal_statute_002030_20250805",
+      "title": "Federal Regulatory Framework - Document #2030",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002030_20250805.json"
+    },
+    {
+      "id": "federal_statute_002168_20250805",
+      "title": "Statutory Requirements and Compliance - Document #2168",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002168_20250805.json"
+    },
+    {
+      "id": "federal_statute_001018_20250805",
+      "title": "Administrative Law and Procedure - Document #1018",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001018_20250805.json"
+    },
+    {
+      "id": "federal_statute_001125_20250805",
+      "title": "Federal Regulatory Framework - Document #1125",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001125_20250805.json"
+    },
+    {
+      "id": "federal_statute_002479_20250805",
+      "title": "Federal Agency Authority - Document #2479",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002479_20250805.json"
+    },
+    {
+      "id": "federal_statute_002046_20250805",
+      "title": "Federal Regulatory Framework - Document #2046",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002046_20250805.json"
+    },
+    {
+      "id": "federal_statute_000456_20250805",
+      "title": "Legislative Standards and Implementation - Document #456",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000456_20250805.json"
+    },
+    {
+      "id": "federal_statute_001359_20250805",
+      "title": "Statutory Requirements and Compliance - Document #1359",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001359_20250805.json"
+    },
+    {
+      "id": "federal_statute_002078_20250805",
+      "title": "Federal Agency Authority - Document #2078",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002078_20250805.json"
+    },
+    {
+      "id": "federal_statute_001859_20250805",
+      "title": "Statutory Requirements and Compliance - Document #1859",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001859_20250805.json"
+    },
+    {
+      "id": "federal_statute_001319_20250805",
+      "title": "Administrative Law and Procedure - Document #1319",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001319_20250805.json"
+    },
+    {
+      "id": "federal_statute_000187_20250805",
+      "title": "Federal Regulatory Framework - Document #187",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000187_20250805.json"
+    },
+    {
+      "id": "federal_statute_002437_20250805",
+      "title": "Federal Regulatory Framework - Document #2437",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002437_20250805.json"
+    },
+    {
+      "id": "federal_statute_000951_20250805",
+      "title": "Legislative Standards and Implementation - Document #951",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000951_20250805.json"
+    },
+    {
+      "id": "federal_statute_001089_20250805",
+      "title": "Federal Agency Authority - Document #1089",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001089_20250805.json"
+    },
+    {
+      "id": "federal_statute_000887_20250805",
+      "title": "Administrative Law and Procedure - Document #887",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000887_20250805.json"
+    },
+    {
+      "id": "federal_statute_000284_20250805",
+      "title": "Federal Agency Authority - Document #284",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000284_20250805.json"
+    },
+    {
+      "id": "federal_statute_000239_20250805",
+      "title": "Administrative Law and Procedure - Document #239",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000239_20250805.json"
+    },
+    {
+      "id": "federal_statute_000846_20250805",
+      "title": "Federal Agency Authority - Document #846",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000846_20250805.json"
+    },
+    {
+      "id": "federal_statute_000953_20250805",
+      "title": "Federal Agency Authority - Document #953",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000953_20250805.json"
+    },
+    {
+      "id": "federal_statute_000987_20250805",
+      "title": "Federal Agency Authority - Document #987",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_000987_20250805.json"
+    },
+    {
+      "id": "federal_statute_002490_20250805",
+      "title": "Statutory Requirements and Compliance - Document #2490",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_002490_20250805.json"
+    },
+    {
+      "id": "federal_statute_001683_20250805",
+      "title": "Federal Agency Authority - Document #1683",
+      "jurisdiction": "us_federal",
+      "legal_domain": "administrative_law",
+      "file_path": "statutes/federal/federal_statute_001683_20250805.json"
+    }
+  ]
+}
