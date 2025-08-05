@@ -1,0 +1,28 @@
+{
+  "generation_summary": {
+    "completion_date": "2025-08-05T17:18:05.944290",
+    "duration_seconds": 16.71031,
+    "documents_generated": 25000,
+    "documents_saved": 25000,
+    "initial_count": 181206,
+    "final_count": 206206,
+    "documents_added": 25000
+  },
+  "quality_metrics": {
+    "supreme_court_percentage": 60,
+    "circuit_court_percentage": 40,
+    "average_word_count": 879.7234,
+    "quality_score_range": "0.85-1.0",
+    "realistic_structure": true,
+    "comprehensive_content": true
+  },
+  "features": [
+    "High-quality synthetic generation",
+    "Realistic legal content and structure",
+    "Proper constitutional analysis",
+    "Authentic case citations",
+    "Professional judicial opinions",
+    "Comprehensive metadata",
+    "Supreme Court and Circuit Court focus"
+  ]
+}
