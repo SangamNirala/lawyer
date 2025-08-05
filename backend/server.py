@@ -12665,5 +12665,51 @@ async def legal_billing_optimization_analytics(
 # END PROFESSIONAL INTEGRATIONS & API ECOSYSTEM ENDPOINTS
 # ====================================================================================================
 
+# Simple database viewer endpoints for debugging
+@api_router.get("/database/collections")
+async def list_database_collections():
+    """List all MongoDB collections with document counts"""
+    try:
+        collections = await db.list_collection_names()
+        collection_info = []
+        for collection_name in collections:
+            count = await db[collection_name].count_documents({})
+            collection_info.append({
+                "name": collection_name,
+                "document_count": count
+            })
+        
+        return {
+            "database": os.environ.get('DB_NAME', 'unknown'),
+            "total_collections": len(collections),
+            "collections": collection_info
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error listing collections: {str(e)}")
+
+@api_router.get("/database/collection/{collection_name}")
+async def view_collection_data(collection_name: str, limit: int = 10):
+    """View sample documents from a specific collection"""
+    try:
+        collection = db[collection_name]
+        
+        # Get total count
+        total_count = await collection.count_documents({})
+        
+        # Get sample documents
+        documents = []
+        async for doc in collection.find().limit(limit):
+            # Convert ObjectId to string for JSON serialization
+            documents.append(convert_objectid_to_str(doc))
+        
+        return {
+            "collection_name": collection_name,
+            "total_documents": total_count,
+            "sample_documents": documents,
+            "showing_first": min(limit, total_count)
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error viewing collection: {str(e)}")
+
 # Include all API routes in the main app (after ALL endpoints are defined)
 app.include_router(api_router)
