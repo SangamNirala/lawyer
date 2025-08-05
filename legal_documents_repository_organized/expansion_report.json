@@ -1,0 +1,50 @@
+{
+  "repository_info": {
+    "name": "Legal Documents Repository (Expanded)",
+    "description": "Comprehensive legal document collection with CourtListener and web sources",
+    "total_files": 0,
+    "expansion_date": "2025-08-05T13:15:10.019270",
+    "max_files_per_directory": 999,
+    "sources": []
+  },
+  "expansion_statistics": {
+    "total_added": 0,
+    "by_source": {},
+    "by_category": {},
+    "by_year": {},
+    "duplicates_skipped": 0,
+    "errors": 0
+  },
+  "categories": {
+    "supreme_court": {
+      "current_count": 9000,
+      "target_count": 15000,
+      "completion_percentage": 60.0
+    },
+    "circuit_courts": {
+      "current_count": 24000,
+      "target_count": 25000,
+      "completion_percentage": 96.0
+    },
+    "district_courts": {
+      "current_count": 12000,
+      "target_count": 20000,
+      "completion_percentage": 60.0
+    },
+    "regulations": {
+      "current_count": 6156,
+      "target_count": 10000,
+      "completion_percentage": 61.56
+    },
+    "statutes": {
+      "current_count": 7842,
+      "target_count": 8000,
+      "completion_percentage": 98.02499999999999
+    },
+    "academic": {
+      "current_count": 10500,
+      "target_count": 12000,
+      "completion_percentage": 87.5
+    }
+  }
+}
