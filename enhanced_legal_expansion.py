@@ -648,17 +648,19 @@ class EnhancedLegalExpansionSystem:
             raise
 
     async def collect_from_additional_sources(self, target_count: int = 20000) -> List[Dict]:
-        """Collect from additional high-quality sources"""
-        logger.info(f"🔍 Collecting from additional sources (target: {target_count:,})")
+        """Collect from additional high-quality sources using web scraping"""
+        logger.info(f"🔍 Collecting from additional sources via web scraping (target: {target_count:,})")
         
-        documents = []
+        # Import the web scraper
+        from advanced_legal_web_scraper import scrape_all_sources
         
-        # Placeholder for additional sources - can be expanded
-        # This would include web scraping from Justia, FindLaw, etc.
-        # For now, return empty list to focus on main sources
-        
-        logger.info(f"✅ Additional sources collected {len(documents):,} documents")
-        return documents
+        try:
+            documents = await scrape_all_sources(target_count)
+            logger.info(f"✅ Additional sources collected {len(documents):,} documents")
+            return documents
+        except Exception as e:
+            logger.error(f"Web scraping failed: {e}")
+            return []
 
     # Helper methods would continue here...
     def _is_duplicate(self, document: Dict) -> bool:
