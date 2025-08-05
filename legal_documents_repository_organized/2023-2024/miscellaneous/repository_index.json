@@ -1,0 +1,93 @@
+{
+  "repository_info": {
+    "created_at": "2025-08-05T12:06:30.665846",
+    "total_documents": 304,
+    "categories": {}
+  },
+  "directory_structure": {
+    "administrative_law": {
+      "federal": 0,
+      "state": 0
+    },
+    "statutes": {
+      "federal": 114,
+      "state": 0
+    },
+    "contracts": {
+      "real_estate": 0,
+      "employment": 0,
+      "business": 41
+    },
+    "regulations": {
+      "cfr": 52,
+      "state": 0
+    },
+    "case_law": {
+      "contracts": 42,
+      "employment": 0,
+      "ip": 0,
+      "administrative": 0,
+      "constitutional": 0
+    },
+    "constitutional_law": {
+      "federal": 11,
+      "state": 0
+    },
+    "employment_law": {
+      "federal": 0,
+      "state": 0
+    },
+    "federal_courts": {
+      "district_courts": 0,
+      "circuit_courts": 0,
+      "supreme_court": 0,
+      "{supreme_court,circuit_courts,district_courts}": 0
+    },
+    "academic": {
+      "research_papers": 0,
+      "{law_reviews,dissertations,research_papers}": 0,
+      "law_reviews": 0,
+      "dissertations": 0
+    },
+    "state_courts": {
+      "ca": 4,
+      "fl": 0,
+      "{ny,ca,tx,fl,il}": 0,
+      "ny": 0,
+      "il": 14,
+      "tx": 0
+    },
+    "international": {
+      "trade_law": 0,
+      "treaties": 0
+    },
+    "{federal_courts,state_courts,international,academic,statutes,regulations,case_law,contracts,employment_law,ip_law,constitutional_law,administrative_law}": {},
+    "ip_law": {
+      "copyright": 0,
+      "patents": 26,
+      "trademarks": 0
+    }
+  },
+  "document_counts": {
+    "federal_courts": {
+      "supreme_court": 0,
+      "circuit_courts": 0,
+      "district_courts": 0
+    },
+    "state_courts": {
+      "ny": 0,
+      "ca": 4,
+      "tx": 0,
+      "fl": 0,
+      "il": 14
+    },
+    "statutes": 0,
+    "regulations": 0,
+    "academic": 0,
+    "contracts": 0,
+    "employment_law": 0,
+    "ip_law": 0,
+    "constitutional_law": 0,
+    "administrative_law": 0
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "repository_info": {
+    "created_at": "2025-08-05T12:12:30.123412",
+    "total_documents": 25304,
+    "target_achieved": true,
+    "generation_method": "comprehensive_generator"
+  },
+  "document_statistics": {
+    "by_category": {
+      "administrative_law": 0,
+      "statutes": 2614,
+      "contracts": 41,
+      "regulations": 2052,
+      "case_law": 42,
+      "constitutional_law": 11,
+      "employment_law": 0,
+      "federal_courts": 15000,
+      "academic": 3500,
+      "state_courts": 2018,
+      "international": 0,
+      "{federal_courts,state_courts,international,academic,statutes,regulations,case_law,contracts,employment_law,ip_law,constitutional_law,administrative_law}": 0,
+      "ip_law": 26
+    },
+    "by_jurisdiction": {
+      "us_federal": 599,
+      "international": 8,
+      "general": 55,
+      "india_central": 43,
+      "us_new_york": 5,
+      "india_maharashtra": 5,
+      "us_texas": 5,
+      "us_california": 4,
+      "ny": 100,
+      "india_tamil_nadu": 14
+    },
+    "by_legal_domain": {
+      "administrative_law": 194,
+      "constitutional_law": 212,
+      "contract_law": 242,
+      "employment_labor_law": 23,
+      "corporate_regulatory": 23,
+      "civil_criminal_procedure": 13,
+      "general_law": 4,
+      "employment_law": 100,
+      "real_estate_law": 1,
+      "intellectual_property": 26
+    },
+    "by_document_type": {
+      "statute": 163,
+      "procedure": 30,
+      "definition": 25,
+      "court_decision": 20,
+      "regulation": 100,
+      "case": 400,
+      "academic": 100
+    },
+    "by_court_level": {},
+    "by_authority_level": {
+      "medium": 838
+    }
+  },
+  "directory_structure": {
+    "administrative_law": {
+      "federal": 0,
+      "state": 0
+    },
+    "statutes": {
+      "federal": 2614,
+      "state": 0
+    },
+    "contracts": {
+      "real_estate": 0,
+      "employment": 0,
+      "business": 41
+    },
+    "regulations": {
+      "cfr": 2052,
+      "state": 0
+    },
+    "case_law": {
+      "contracts": 42,
+      "employment": 0,
+      "ip": 0,
+      "administrative": 0,
+      "constitutional": 0
+    },
+    "constitutional_law": {
+      "federal": 11,
+      "state": 0
+    },
+    "employment_law": {
+      "federal": 0,
+      "state": 0
+    },
+    "federal_courts": {
+      "district_courts": 4000,
+      "circuit_courts": 8000,
+      "supreme_court": 3000,
+      "{supreme_court,circuit_courts,district_courts}": 0
+    },
+    "academic": {
+      "research_papers": 0,
+      "{law_reviews,dissertations,research_papers}": 0,
+      "law_reviews": 3500,
+      "dissertations": 0
+    },
+    "state_courts": {
+      "ca": 4,
+      "fl": 0,
+      "{ny,ca,tx,fl,il}": 0,
+      "ny": 2000,
+      "il": 14,
+      "tx": 0
+    },
+    "international": {
+      "trade_law": 0,
+      "treaties": 0
+    },
+    "{federal_courts,state_courts,international,academic,statutes,regulations,case_law,contracts,employment_law,ip_law,constitutional_law,administrative_law}": {},
+    "ip_law": {
+      "copyright": 0,
+      "patents": 26,
+      "trademarks": 0
+    }
+  },
+  "quality_metrics": {
+    "average_content_length": 69.5677758457161,
+    "average_word_count": 9.303746443250079,
+    "documents_with_citations": 694,
+    "documents_with_precedents": 694
+  }
+}

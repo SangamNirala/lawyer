@@ -1,0 +1,260 @@
+{
+  "repository_info": {
+    "name": "Legal Documents Repository (Organized)",
+    "description": "Date-based organization with max 999 files per directory",
+    "total_files": 25308,
+    "organization_date": "2025-08-05T12:56:05.562232",
+    "max_files_per_directory": 999
+  },
+  "date_ranges": {
+    "2023-2024": {
+      "total_files": 5368,
+      "document_types": {
+        "supreme_court": {
+          "file_count": 625,
+          "direct_files": 625,
+          "batches": null
+        },
+        "regulations": {
+          "file_count": 450,
+          "direct_files": 450,
+          "batches": null
+        },
+        "miscellaneous": {
+          "file_count": 4,
+          "direct_files": 4,
+          "batches": null
+        },
+        "constitutional_law": {
+          "file_count": 11,
+          "direct_files": 11,
+          "batches": null
+        },
+        "contracts": {
+          "file_count": 83,
+          "direct_files": 83,
+          "batches": null
+        },
+        "circuit_courts": {
+          "file_count": 1619,
+          "direct_files": 0,
+          "batches": {
+            "batch_001": 999,
+            "batch_002": 620
+          }
+        },
+        "academic": {
+          "file_count": 693,
+          "direct_files": 693,
+          "batches": null
+        },
+        "state_courts": {
+          "file_count": 414,
+          "direct_files": 414,
+          "batches": null
+        },
+        "district_courts": {
+          "file_count": 841,
+          "direct_files": 841,
+          "batches": null
+        },
+        "ip_law": {
+          "file_count": 26,
+          "direct_files": 26,
+          "batches": null
+        },
+        "statutes": {
+          "file_count": 602,
+          "direct_files": 602,
+          "batches": null
+        }
+      }
+    },
+    "2021-2022": {
+      "total_files": 4997,
+      "document_types": {
+        "supreme_court": {
+          "file_count": 575,
+          "direct_files": 575,
+          "batches": null
+        },
+        "regulations": {
+          "file_count": 401,
+          "direct_files": 401,
+          "batches": null
+        },
+        "circuit_courts": {
+          "file_count": 1603,
+          "direct_files": 0,
+          "batches": {
+            "batch_001": 999,
+            "batch_002": 604
+          }
+        },
+        "academic": {
+          "file_count": 700,
+          "direct_files": 700,
+          "batches": null
+        },
+        "state_courts": {
+          "file_count": 378,
+          "direct_files": 378,
+          "batches": null
+        },
+        "district_courts": {
+          "file_count": 842,
+          "direct_files": 842,
+          "batches": null
+        },
+        "statutes": {
+          "file_count": 498,
+          "direct_files": 498,
+          "batches": null
+        }
+      }
+    },
+    "2025-future": {
+      "total_files": 1457,
+      "document_types": {
+        "supreme_court": {
+          "file_count": 175,
+          "direct_files": 175,
+          "batches": null
+        },
+        "regulations": {
+          "file_count": 114,
+          "direct_files": 114,
+          "batches": null
+        },
+        "circuit_courts": {
+          "file_count": 464,
+          "direct_files": 464,
+          "batches": null
+        },
+        "academic": {
+          "file_count": 230,
+          "direct_files": 230,
+          "batches": null
+        },
+        "state_courts": {
+          "file_count": 109,
+          "direct_files": 109,
+          "batches": null
+        },
+        "district_courts": {
+          "file_count": 216,
+          "direct_files": 216,
+          "batches": null
+        },
+        "statutes": {
+          "file_count": 149,
+          "direct_files": 149,
+          "batches": null
+        }
+      }
+    },
+    "2015-2018": {
+      "total_files": 8511,
+      "document_types": {
+        "supreme_court": {
+          "file_count": 1018,
+          "direct_files": 0,
+          "batches": {
+            "batch_001": 999,
+            "batch_002": 19
+          }
+        },
+        "regulations": {
+          "file_count": 694,
+          "direct_files": 694,
+          "batches": null
+        },
+        "circuit_courts": {
+          "file_count": 2744,
+          "direct_files": 0,
+          "batches": {
+            "batch_001": 999,
+            "batch_002": 999,
+            "batch_003": 746
+          }
+        },
+        "academic": {
+          "file_count": 1156,
+          "direct_files": 0,
+          "batches": {
+            "batch_001": 999,
+            "batch_002": 157
+          }
+        },
+        "state_courts": {
+          "file_count": 696,
+          "direct_files": 696,
+          "batches": null
+        },
+        "district_courts": {
+          "file_count": 1332,
+          "direct_files": 0,
+          "batches": {
+            "batch_001": 999,
+            "batch_002": 333
+          }
+        },
+        "statutes": {
+          "file_count": 871,
+          "direct_files": 871,
+          "batches": null
+        }
+      }
+    },
+    "2019-2020": {
+      "total_files": 4975,
+      "document_types": {
+        "supreme_court": {
+          "file_count": 607,
+          "direct_files": 607,
+          "batches": null
+        },
+        "regulations": {
+          "file_count": 393,
+          "direct_files": 393,
+          "batches": null
+        },
+        "circuit_courts": {
+          "file_count": 1570,
+          "direct_files": 0,
+          "batches": {
+            "batch_001": 999,
+            "batch_002": 571
+          }
+        },
+        "academic": {
+          "file_count": 721,
+          "direct_files": 721,
+          "batches": null
+        },
+        "state_courts": {
+          "file_count": 421,
+          "direct_files": 421,
+          "batches": null
+        },
+        "district_courts": {
+          "file_count": 769,
+          "direct_files": 769,
+          "batches": null
+        },
+        "statutes": {
+          "file_count": 494,
+          "direct_files": 494,
+          "batches": null
+        }
+      }
+    }
+  },
+  "statistics": {
+    "2023-2024": 5368,
+    "2015-2018": 8511,
+    "2019-2020": 4975,
+    "2021-2022": 4997,
+    "2025-future": 1457
+  }
+}
