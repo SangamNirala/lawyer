@@ -729,13 +729,154 @@ class EnhancedLegalExpansionSystem:
     # Additional helper methods for processing results from each source
     async def _process_enhanced_courtlistener_result(self, result: Dict, session: aiohttp.ClientSession) -> Optional[Dict]:
         """Process enhanced CourtListener result"""
-        # Implementation would go here
-        return None
+        try:
+            # Get full text content
+            if result.get('download_url'):
+                async with session.get(result['download_url']) as text_response:
+                    if text_response.status == 200:
+                        content = await text_response.text()
+                    else:
+                        content = result.get('snippet', '')
+            else:
+                content = result.get('snippet', '')
+            
+            if len(content.strip()) < 1000:  # Quality threshold
+                return None
+            
+            # Extract metadata
+            court_info = result.get('court', '')
+            jurisdiction = self._determine_jurisdiction_cl(court_info)
+            court_level = self._determine_court_level_cl(court_info)
+            
+            doc_id = f"cl_enhanced_{result.get('id', uuid.uuid4().hex[:8])}_{datetime.now().strftime('%Y%m%d')}"
+            
+            document = {
+                "id": doc_id,
+                "title": result.get('caseName', 'Legal Case'),
+                "content": self._enhance_legal_content(content),
+                "source": "CourtListener Enhanced",
+                "jurisdiction": jurisdiction,
+                "legal_domain": self._classify_legal_domain(content),
+                "document_type": "case",
+                "court": court_info,
+                "citation": result.get('citation', f"CL {result.get('id', 'Unknown')}"),
+                "case_name": result.get('caseName', ''),
+                "date_filed": result.get('dateFiled', datetime.now().strftime('%Y-%m-%d')),
+                "judges": [judge.get('name', '') for judge in result.get('judges', [])],
+                "attorneys": self._extract_attorneys_cl(result),
+                "legal_topics": self._extract_legal_topics(content),
+                "precedential_status": result.get('status', 'Published'),
+                "court_level": court_level,
+                "word_count": len(content.split()),
+                "quality_score": self._calculate_quality_score_cl(content, result),
+                "courtlistener_data": {
+                    "cl_id": result.get('id'),
+                    "absolute_url": result.get('absolute_url', ''),
+                    "download_url": result.get('download_url', ''),
+                    "local_path": result.get('local_path', '')
+                },
+                "metadata": {
+                    "collection_date": datetime.now().isoformat(),
+                    "source_api": "CourtListener Enhanced",
+                    "quality_verified": True,
+                    "word_count": len(content.split()),
+                    "court_level": court_level
+                }
+            }
+            
+            return document
+            
+        except Exception as e:
+            logger.error(f"Error processing CourtListener result: {e}")
+            return None
 
     async def _process_archive_org_result(self, result: Dict, session: aiohttp.ClientSession) -> Optional[Dict]:
         """Process Archive.org result"""
-        # Implementation would go here
-        return None
+        try:
+            identifier = result.get('identifier', '')
+            if not identifier:
+                return None
+            
+            # Get item details
+            details_url = f"https://archive.org/details/{identifier}"
+            metadata_url = f"https://archive.org/metadata/{identifier}"
+            
+            # Get metadata
+            async with session.get(metadata_url) as response:
+                if response.status == 200:
+                    metadata = await response.json()
+                else:
+                    return None
+            
+            # Extract files and find text content
+            files = metadata.get('files', [])
+            text_content = ""
+            
+            # Look for text files
+            for file_info in files:
+                if file_info.get('format') in ['Text', 'DjVuTXT', 'Abbyy GZ']:
+                    file_url = f"https://archive.org/download/{identifier}/{file_info['name']}"
+                    try:
+                        async with session.get(file_url) as file_response:
+                            if file_response.status == 200:
+                                text_content = await file_response.text()
+                                break
+                    except:
+                        continue
+            
+            if len(text_content.strip()) < 1000:
+                return None
+            
+            # Extract metadata
+            item_metadata = metadata.get('metadata', {})
+            title = item_metadata.get('title', result.get('title', 'Legal Document'))
+            date = item_metadata.get('date', result.get('date', datetime.now().strftime('%Y-%m-%d')))
+            
+            doc_id = f"archive_{identifier}_{datetime.now().strftime('%Y%m%d')}"
+            
+            # Determine if it's a court case
+            is_court_case = any(term in title.lower() for term in ['v.', 'court', 'case', 'decision'])
+            
+            document = {
+                "id": doc_id,
+                "title": title,
+                "content": self._enhance_legal_content(text_content),
+                "source": "Internet Archive Legal Collection",
+                "jurisdiction": "us_federal",  # Assume federal for Archive.org
+                "legal_domain": self._classify_legal_domain(text_content),
+                "document_type": "case" if is_court_case else "legal_document",
+                "court": self._extract_court_from_title(title),
+                "citation": f"Archive.org {identifier}",
+                "case_name": title if is_court_case else '',
+                "date_filed": date,
+                "judges": self._extract_judges_from_content(text_content),
+                "attorneys": [],
+                "legal_topics": self._extract_legal_topics(text_content),
+                "precedential_status": "Published",
+                "court_level": self._determine_court_level_from_title(title),
+                "word_count": len(text_content.split()),
+                "quality_score": self._calculate_quality_score_archive(text_content, item_metadata),
+                "archive_data": {
+                    "identifier": identifier,
+                    "details_url": details_url,
+                    "creator": item_metadata.get('creator', ''),
+                    "subject": item_metadata.get('subject', []),
+                    "description": item_metadata.get('description', '')
+                },
+                "metadata": {
+                    "collection_date": datetime.now().isoformat(),
+                    "source_api": "Archive.org",
+                    "quality_verified": True,
+                    "word_count": len(text_content.split()),
+                    "archive_identifier": identifier
+                }
+            }
+            
+            return document
+            
+        except Exception as e:
+            logger.error(f"Error processing Archive.org result: {e}")
+            return None
 
     def _determine_jurisdiction_cap(self, court_name: str) -> str:
         """Determine jurisdiction from CAP court name"""
