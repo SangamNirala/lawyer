@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_7411d940_20250805",
+  "title": "Agency Authority - Document #7411d940",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 49 - Agency Authority\n\nPART 699 - AGENCY AUTHORITY REGULATIONS\n\nAuthority: 22 U.S.C. 203\n\n§ 699.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing agency authority in accordance with federal statutory requirements and administrative policy.\n\n§ 699.2 Definitions.\nFor purposes of this part:\n(a) Agency Authority means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 699.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for agency authority. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 699.4 Compliance procedures.\nCompliance with agency authority regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 699.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of agency authority requirements.\n\n§ 699.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2021-09-13\nFederal Register Citation: 87 FR 24528 (2022)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 472 F.2d 5613 (2019)",
+  "case_name": "Jones v. Anderson",
+  "date_filed": "2019-09-05",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Attorney",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-618387"
+    },
+    {
+      "name": "Lee Attorney",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-545345"
+    }
+  ],
+  "legal_topics": [
+    "Agency Authority",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.954779555252921,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:59.291588",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Agency Authority",
+    "target_year": 2019
+  }
+}

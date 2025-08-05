@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_41430259_20250805",
+  "title": "Notice and Comment - Document #41430259",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 32 - Notice And Comment\n\nPART 697 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 24 U.S.C. 877\n\n§ 697.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 697.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 697.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 697.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 697.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 697.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2023-05-02\nFederal Register Citation: 83 FR 86651 (2023)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 504 F.1d 5831 (2020)",
+  "case_name": "New York v. Martin",
+  "date_filed": "2020-09-27",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Davis Esq.",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-545705"
+    },
+    {
+      "name": "Lee Attorney",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-866739"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.9641541983115209,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:06.640828",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2020
+  }
+}

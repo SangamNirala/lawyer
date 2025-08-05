@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_2a60ac7a_20250805",
+  "title": "Rulemaking Process - Document #2a60ac7a",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 30 - Rulemaking Process\n\nPART 880 - RULEMAKING PROCESS REGULATIONS\n\nAuthority: 14 U.S.C. 392\n\n§ 880.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing rulemaking process in accordance with federal statutory requirements and administrative policy.\n\n§ 880.2 Definitions.\nFor purposes of this part:\n(a) Rulemaking Process means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 880.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for rulemaking process. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 880.4 Compliance procedures.\nCompliance with rulemaking process regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 880.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of rulemaking process requirements.\n\n§ 880.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2018-01-30\nFederal Register Citation: 89 FR 51626 (2020)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 156 F.2d 2939 (2018)",
+  "case_name": "Johnson v. State of Florida",
+  "date_filed": "2018-07-13",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Attorney",
+      "firm": "Metro Systems Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-335214"
+    },
+    {
+      "name": "Martin Esq.",
+      "firm": "Global Industries Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-205614"
+    }
+  ],
+  "legal_topics": [
+    "Rulemaking Process",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.9662104100948803,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:06.728698",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Rulemaking Process",
+    "target_year": 2018
+  }
+}

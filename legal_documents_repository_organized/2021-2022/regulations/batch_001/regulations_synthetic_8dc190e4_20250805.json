@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_8dc190e4_20250805",
+  "title": "Judicial Review - Document #8dc190e4",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 36 - Judicial Review\n\nPART 634 - JUDICIAL REVIEW REGULATIONS\n\nAuthority: 8 U.S.C. 160\n\n§ 634.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing judicial review in accordance with federal statutory requirements and administrative policy.\n\n§ 634.2 Definitions.\nFor purposes of this part:\n(a) Judicial Review means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 634.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for judicial review. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 634.4 Compliance procedures.\nCompliance with judicial review regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 634.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of judicial review requirements.\n\n§ 634.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2019-08-04\nFederal Register Citation: 87 FR 26990 (2018)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 439 F.2d 7871 (2022)",
+  "case_name": "United States v. Anderson",
+  "date_filed": "2022-05-27",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Esq.",
+      "firm": "Advanced Solutions Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-681598"
+    },
+    {
+      "name": "Thompson Attorney",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-913006"
+    }
+  ],
+  "legal_topics": [
+    "Judicial Review",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7912282989521188,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:02.592623",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Judicial Review",
+    "target_year": 2022
+  }
+}

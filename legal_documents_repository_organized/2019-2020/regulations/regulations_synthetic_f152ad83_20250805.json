@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_f152ad83_20250805",
+  "title": "Notice and Comment - Document #f152ad83",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 6 - Notice And Comment\n\nPART 22 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 29 U.S.C. 709\n\n§ 22.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 22.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 22.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 22.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 22.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 22.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2023-08-10\nFederal Register Citation: 89 FR 18262 (2022)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 321 F.3d 6369 (2020)",
+  "case_name": "Tech Corp v. Tech Corp",
+  "date_filed": "2020-04-10",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Esq.",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-893609"
+    },
+    {
+      "name": "Lee Attorney",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-328967"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.9155156523154506,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:57.562809",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2020
+  }
+}

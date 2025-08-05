@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_76b24e33_20250805",
+  "title": "Enforcement Actions - Document #76b24e33",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 14 - Enforcement Actions\n\nPART 584 - ENFORCEMENT ACTIONS REGULATIONS\n\nAuthority: 25 U.S.C. 245\n\n§ 584.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing enforcement actions in accordance with federal statutory requirements and administrative policy.\n\n§ 584.2 Definitions.\nFor purposes of this part:\n(a) Enforcement Actions means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 584.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for enforcement actions. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 584.4 Compliance procedures.\nCompliance with enforcement actions regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 584.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of enforcement actions requirements.\n\n§ 584.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2022-08-19\nFederal Register Citation: 85 FR 60061 (2018)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 278 F.1d 7898 (2024)",
+  "case_name": "Martinez v. State of California",
+  "date_filed": "2024-08-10",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Brown Esq.",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-779636"
+    },
+    {
+      "name": "Thomas Attorney",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-842415"
+    }
+  ],
+  "legal_topics": [
+    "Enforcement Actions",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.8946253727244969,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:58.546265",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Enforcement Actions",
+    "target_year": 2024
+  }
+}

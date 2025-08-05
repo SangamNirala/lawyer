@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_9d143046_20250805",
+  "title": "Notice and Comment - Document #9d143046",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 16 - Notice And Comment\n\nPART 911 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 43 U.S.C. 858\n\n§ 911.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 911.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 911.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 911.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 911.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 911.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2023-04-07\nFederal Register Citation: 85 FR 21250 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 940 F.3d 988 (2022)",
+  "case_name": "United States v. Anderson",
+  "date_filed": "2022-02-19",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Garcia Esq.",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-873976"
+    },
+    {
+      "name": "Thomas Esq.",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-448378"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.8739990141131128,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:56.741507",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2022
+  }
+}

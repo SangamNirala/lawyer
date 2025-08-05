@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_50934a3b_20250805",
+  "title": "Administrative Hearings - Document #50934a3b",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 25 - Administrative Hearings\n\nPART 103 - ADMINISTRATIVE HEARINGS REGULATIONS\n\nAuthority: 26 U.S.C. 151\n\n§ 103.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing administrative hearings in accordance with federal statutory requirements and administrative policy.\n\n§ 103.2 Definitions.\nFor purposes of this part:\n(a) Administrative Hearings means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 103.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for administrative hearings. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 103.4 Compliance procedures.\nCompliance with administrative hearings regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 103.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of administrative hearings requirements.\n\n§ 103.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2021-07-02\nFederal Register Citation: 87 FR 58324 (2019)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 283 F.3d 4047 (2023)",
+  "case_name": "Martinez v. Thomas",
+  "date_filed": "2023-04-04",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Jones Esq.",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-602347"
+    },
+    {
+      "name": "Martin Esq.",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-614065"
+    }
+  ],
+  "legal_topics": [
+    "Administrative Hearings",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.9647503251575018,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:04.152620",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Administrative Hearings",
+    "target_year": 2023
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_e13ae755_20250805",
+  "title": "Notice and Comment - Document #e13ae755",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 4 - Notice And Comment\n\nPART 529 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 14 U.S.C. 895\n\n§ 529.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 529.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 529.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 529.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 529.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 529.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2023-07-03\nFederal Register Citation: 88 FR 96471 (2025)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 357 F.3d 1839 (2020)",
+  "case_name": "Texas v. Anderson",
+  "date_filed": "2020-06-25",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Davis Attorney",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-493109"
+    },
+    {
+      "name": "Thompson Esq.",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-375765"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.7895122763339493,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:06.973429",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2020
+  }
+}

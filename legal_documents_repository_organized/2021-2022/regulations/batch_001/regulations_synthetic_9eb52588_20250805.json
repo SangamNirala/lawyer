@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_9eb52588_20250805",
+  "title": "Judicial Review - Document #9eb52588",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 46 - Judicial Review\n\nPART 643 - JUDICIAL REVIEW REGULATIONS\n\nAuthority: 18 U.S.C. 413\n\n§ 643.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing judicial review in accordance with federal statutory requirements and administrative policy.\n\n§ 643.2 Definitions.\nFor purposes of this part:\n(a) Judicial Review means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 643.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for judicial review. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 643.4 Compliance procedures.\nCompliance with judicial review regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 643.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of judicial review requirements.\n\n§ 643.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-07-24\nFederal Register Citation: 83 FR 66454 (2022)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 622 F.2d 4790 (2021)",
+  "case_name": "Prime Services v. Tech Corp",
+  "date_filed": "2021-10-07",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Davis Esq.",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-665976"
+    },
+    {
+      "name": "Taylor Attorney",
+      "firm": "Global Industries Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-923010"
+    }
+  ],
+  "legal_topics": [
+    "Judicial Review",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.8460093466414379,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:04.998811",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Judicial Review",
+    "target_year": 2021
+  }
+}

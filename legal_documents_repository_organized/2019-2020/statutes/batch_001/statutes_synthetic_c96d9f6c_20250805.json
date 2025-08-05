@@ -1,0 +1,45 @@
+{
+  "id": "statutes_synthetic_c96d9f6c_20250805",
+  "title": "Equal Protection - Document #c96d9f6c",
+  "content": "UNITED STATES CODE\nTitle 1 - Equal Protection\n\nChapter 62 - EQUAL PROTECTION\n\n§ 6891. Equal Protection provisions\n\n(a) GENERAL RULE.—The provisions of this section shall apply to all matters involving equal protection under federal jurisdiction.\n\n(b) DEFINITIONS.—In this section:\n    (1) The term \"equal protection\" means the legal framework, procedures, and standards established for equal protection under federal law.\n    (2) The term \"federal jurisdiction\" means the authority exercised by federal courts and agencies.\n\n(c) REQUIREMENTS.—\n    (1) All covered entities must comply with federal standards for equal protection.\n    (2) Compliance includes adherence to procedural requirements and substantive standards.\n    (3) Documentation and reporting requirements must be satisfied as specified.\n\n(d) ENFORCEMENT.—\n    The Attorney General may bring enforcement actions for violations of equal protection requirements. Civil penalties and injunctive relief are available remedies.\n\n(e) EFFECTIVE DATE.—This section shall take effect 177 days after the date of enactment.\n\n(f) REGULATIONS.—The Secretary may prescribe regulations necessary to carry out this section.\n\nEnacted: 2022-09-03\nPublic Law: 114-406\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "statutes",
+  "court": "Federal Authority",
+  "citation": "Synthetic 875 F.4d 8406 (2019)",
+  "case_name": "Garcia v. Thompson",
+  "date_filed": "2019-08-16",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Jones Attorney",
+      "firm": "Advanced Solutions Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-502796"
+    },
+    {
+      "name": "Moore Attorney",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-885481"
+    }
+  ],
+  "legal_topics": [
+    "Equal Protection",
+    "constitutional law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 161,
+  "quality_score": 0.764607766843991,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:16.179934",
+    "synthetic": true,
+    "category": "statutes",
+    "topic": "Equal Protection",
+    "target_year": 2019
+  }
+}

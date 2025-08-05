@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_c9d3a37a_20250805",
+  "title": "Rulemaking Process - Document #c9d3a37a",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 41 - Rulemaking Process\n\nPART 136 - RULEMAKING PROCESS REGULATIONS\n\nAuthority: 32 U.S.C. 875\n\n§ 136.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing rulemaking process in accordance with federal statutory requirements and administrative policy.\n\n§ 136.2 Definitions.\nFor purposes of this part:\n(a) Rulemaking Process means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 136.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for rulemaking process. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 136.4 Compliance procedures.\nCompliance with rulemaking process regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 136.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of rulemaking process requirements.\n\n§ 136.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2020-02-11\nFederal Register Citation: 88 FR 10374 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 964 F.1d 2592 (2020)",
+  "case_name": "Prime Services v. Prime Services",
+  "date_filed": "2020-12-04",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Davis Attorney",
+      "firm": "Metro Systems Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-834931"
+    },
+    {
+      "name": "Martin Esq.",
+      "firm": "Global Industries Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-741731"
+    }
+  ],
+  "legal_topics": [
+    "Rulemaking Process",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.8005128405155173,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:07.301863",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Rulemaking Process",
+    "target_year": 2020
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_75cbd33c_20250805",
+  "title": "Notice and Comment - Document #75cbd33c",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 45 - Notice And Comment\n\nPART 694 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 14 U.S.C. 790\n\n§ 694.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 694.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 694.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 694.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 694.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 694.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2021-06-08\nFederal Register Citation: 86 FR 16861 (2018)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 895 F.4d 3042 (2020)",
+  "case_name": "Metro Systems v. Garcia",
+  "date_filed": "2020-03-11",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Miller Esq.",
+      "firm": "Advanced Solutions Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-928910"
+    },
+    {
+      "name": "Anderson Attorney",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-211132"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.9251916998042058,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:57.189245",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2020
+  }
+}

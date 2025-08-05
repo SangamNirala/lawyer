@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_31de50ab_20250805",
+  "title": "Notice and Comment - Document #31de50ab",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 1 - Notice And Comment\n\nPART 990 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 9 U.S.C. 116\n\n§ 990.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 990.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 990.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 990.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 990.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 990.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2022-07-13\nFederal Register Citation: 85 FR 70966 (2023)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 312 F.4d 3715 (2020)",
+  "case_name": "United States v. Martin",
+  "date_filed": "2020-06-02",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Miller Esq.",
+      "firm": "Advanced Solutions Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-308958"
+    },
+    {
+      "name": "Lopez Attorney",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-935751"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.7827175305840576,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:01.535567",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2020
+  }
+}

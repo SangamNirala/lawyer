@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_aba33e9b_20250805",
+  "title": "Notice and Comment - Document #aba33e9b",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 30 - Notice And Comment\n\nPART 239 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 9 U.S.C. 589\n\n§ 239.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 239.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 239.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 239.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 239.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 239.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-03-29\nFederal Register Citation: 87 FR 88785 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 855 F.4d 3391 (2022)",
+  "case_name": "Miller v. Lee",
+  "date_filed": "2022-04-06",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Esq.",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-916132"
+    },
+    {
+      "name": "Thomas Attorney",
+      "firm": "United Holdings Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-699451"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.7619173417857513,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:01.096456",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2022
+  }
+}

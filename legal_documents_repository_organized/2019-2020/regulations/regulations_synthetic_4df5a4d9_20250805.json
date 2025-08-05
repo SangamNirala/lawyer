@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_4df5a4d9_20250805",
+  "title": "Enforcement Actions - Document #4df5a4d9",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 1 - Enforcement Actions\n\nPART 179 - ENFORCEMENT ACTIONS REGULATIONS\n\nAuthority: 45 U.S.C. 404\n\n§ 179.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing enforcement actions in accordance with federal statutory requirements and administrative policy.\n\n§ 179.2 Definitions.\nFor purposes of this part:\n(a) Enforcement Actions means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 179.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for enforcement actions. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 179.4 Compliance procedures.\nCompliance with enforcement actions regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 179.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of enforcement actions requirements.\n\n§ 179.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-04-20\nFederal Register Citation: 90 FR 22436 (2020)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 452 F.3d 5677 (2020)",
+  "case_name": "Global Industries v. Metro Systems",
+  "date_filed": "2020-08-13",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Attorney",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-467594"
+    },
+    {
+      "name": "Taylor Esq.",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-319781"
+    }
+  ],
+  "legal_topics": [
+    "Enforcement Actions",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7562000319762594,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:01.812521",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Enforcement Actions",
+    "target_year": 2020
+  }
+}

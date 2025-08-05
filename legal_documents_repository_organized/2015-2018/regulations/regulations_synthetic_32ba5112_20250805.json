@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_32ba5112_20250805",
+  "title": "Rulemaking Process - Document #32ba5112",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 11 - Rulemaking Process\n\nPART 239 - RULEMAKING PROCESS REGULATIONS\n\nAuthority: 27 U.S.C. 419\n\n§ 239.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing rulemaking process in accordance with federal statutory requirements and administrative policy.\n\n§ 239.2 Definitions.\nFor purposes of this part:\n(a) Rulemaking Process means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 239.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for rulemaking process. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 239.4 Compliance procedures.\nCompliance with rulemaking process regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 239.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of rulemaking process requirements.\n\n§ 239.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-12-27\nFederal Register Citation: 86 FR 72964 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 950 F.3d 7135 (2018)",
+  "case_name": "In re Estate Planning",
+  "date_filed": "2018-02-22",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Garcia Esq.",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-891841"
+    },
+    {
+      "name": "Lee Esq.",
+      "firm": "United Holdings Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-959238"
+    }
+  ],
+  "legal_topics": [
+    "Rulemaking Process",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.9429763454576456,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:59.144063",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Rulemaking Process",
+    "target_year": 2018
+  }
+}

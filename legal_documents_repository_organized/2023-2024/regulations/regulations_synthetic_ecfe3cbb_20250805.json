@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_ecfe3cbb_20250805",
+  "title": "Notice and Comment - Document #ecfe3cbb",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 34 - Notice And Comment\n\nPART 439 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 26 U.S.C. 134\n\n§ 439.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 439.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 439.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 439.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 439.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 439.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2021-05-31\nFederal Register Citation: 80 FR 85216 (2025)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 592 F.2d 8415 (2024)",
+  "case_name": "Johnson v. Moore",
+  "date_filed": "2024-06-10",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Esq.",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-260925"
+    },
+    {
+      "name": "Thomas Esq.",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-503354"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.7577216473273405,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:58.507789",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2024
+  }
+}

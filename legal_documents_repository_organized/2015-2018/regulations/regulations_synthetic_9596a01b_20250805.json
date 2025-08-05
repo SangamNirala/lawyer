@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_9596a01b_20250805",
+  "title": "Judicial Review - Document #9596a01b",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 18 - Judicial Review\n\nPART 438 - JUDICIAL REVIEW REGULATIONS\n\nAuthority: 38 U.S.C. 396\n\n§ 438.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing judicial review in accordance with federal statutory requirements and administrative policy.\n\n§ 438.2 Definitions.\nFor purposes of this part:\n(a) Judicial Review means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 438.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for judicial review. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 438.4 Compliance procedures.\nCompliance with judicial review regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 438.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of judicial review requirements.\n\n§ 438.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2018-07-15\nFederal Register Citation: 86 FR 69683 (2018)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 322 F.3d 3637 (2018)",
+  "case_name": "In re Corporate Restructuring",
+  "date_filed": "2018-10-02",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Esq.",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-967551"
+    },
+    {
+      "name": "Thompson Esq.",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-886780"
+    }
+  ],
+  "legal_topics": [
+    "Judicial Review",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.730714709030932,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:57.759977",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Judicial Review",
+    "target_year": 2018
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "statutes_synthetic_8c708684_20250805",
+  "title": "Civil Rights - Document #8c708684",
+  "content": "UNITED STATES CODE\nTitle 31 - Civil Rights\n\nChapter 23 - CIVIL RIGHTS\n\n§ 8256. Civil Rights provisions\n\n(a) GENERAL RULE.—The provisions of this section shall apply to all matters involving civil rights under federal jurisdiction.\n\n(b) DEFINITIONS.—In this section:\n    (1) The term \"civil rights\" means the legal framework, procedures, and standards established for civil rights under federal law.\n    (2) The term \"federal jurisdiction\" means the authority exercised by federal courts and agencies.\n\n(c) REQUIREMENTS.—\n    (1) All covered entities must comply with federal standards for civil rights.\n    (2) Compliance includes adherence to procedural requirements and substantive standards.\n    (3) Documentation and reporting requirements must be satisfied as specified.\n\n(d) ENFORCEMENT.—\n    The Attorney General may bring enforcement actions for violations of civil rights requirements. Civil penalties and injunctive relief are available remedies.\n\n(e) EFFECTIVE DATE.—This section shall take effect 140 days after the date of enactment.\n\n(f) REGULATIONS.—The Secretary may prescribe regulations necessary to carry out this section.\n\nEnacted: 2020-02-24\nPublic Law: 114-159\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "statutes",
+  "court": "Federal Authority",
+  "citation": "Synthetic 863 F.2d 1717 (2024)",
+  "case_name": "Brown v. Martin",
+  "date_filed": "2024-06-22",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Martinez Esq.",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-773464"
+    },
+    {
+      "name": "White Esq.",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-795790"
+    }
+  ],
+  "legal_topics": [
+    "Civil Rights",
+    "constitutional law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 161,
+  "quality_score": 0.804464613392084,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:15.427652",
+    "synthetic": true,
+    "category": "statutes",
+    "topic": "Civil Rights",
+    "target_year": 2024
+  }
+}

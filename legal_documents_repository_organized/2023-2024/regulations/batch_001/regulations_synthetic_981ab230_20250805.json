@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_981ab230_20250805",
+  "title": "Notice and Comment - Document #981ab230",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 37 - Notice And Comment\n\nPART 363 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 23 U.S.C. 171\n\n§ 363.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 363.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 363.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 363.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 363.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 363.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2018-06-29\nFederal Register Citation: 86 FR 36201 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 367 F.3d 634 (2024)",
+  "case_name": "Advanced Solutions v. Metro Systems",
+  "date_filed": "2024-04-25",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Miller Esq.",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-379644"
+    },
+    {
+      "name": "Lopez Attorney",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-124931"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.9648153805496819,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:04.688206",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2024
+  }
+}

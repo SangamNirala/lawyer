@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_55fe6e7c_20250805",
+  "title": "Notice and Comment - Document #55fe6e7c",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 33 - Notice And Comment\n\nPART 653 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 45 U.S.C. 165\n\n§ 653.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 653.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 653.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 653.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 653.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 653.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2023-08-26\nFederal Register Citation: 87 FR 43950 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 164 F.4d 5595 (2022)",
+  "case_name": "Advanced Solutions v. Martinez",
+  "date_filed": "2022-11-17",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Jones Esq.",
+      "firm": "Advanced Solutions Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-851584"
+    },
+    {
+      "name": "White Esq.",
+      "firm": "Global Industries Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-583192"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.8596337427295384,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:05.851436",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2022
+  }
+}

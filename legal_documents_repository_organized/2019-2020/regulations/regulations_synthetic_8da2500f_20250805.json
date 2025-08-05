@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_8da2500f_20250805",
+  "title": "Notice and Comment - Document #8da2500f",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 40 - Notice And Comment\n\nPART 926 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 20 U.S.C. 946\n\n§ 926.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 926.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 926.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 926.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 926.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 926.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2020-01-23\nFederal Register Citation: 82 FR 88166 (2020)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 328 F.1d 5748 (2019)",
+  "case_name": "Metro Systems v. Williams",
+  "date_filed": "2019-12-22",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Davis Attorney",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-803031"
+    },
+    {
+      "name": "Lee Attorney",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-743186"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.876631756580184,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:56.836575",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2019
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_a1644426_20250805",
+  "title": "Notice and Comment - Document #a1644426",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 25 - Notice And Comment\n\nPART 218 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 41 U.S.C. 494\n\n§ 218.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 218.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 218.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 218.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 218.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 218.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2019-07-02\nFederal Register Citation: 84 FR 40218 (2021)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 237 F.4d 8956 (2024)",
+  "case_name": "Texas v. White",
+  "date_filed": "2024-01-24",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Attorney",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-699606"
+    },
+    {
+      "name": "Lee Esq.",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-233100"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.8485186934279063,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:57.341465",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2024
+  }
+}

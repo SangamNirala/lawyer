@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_c8b3fa26_20250805",
+  "title": "Agency Authority - Document #c8b3fa26",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 35 - Agency Authority\n\nPART 567 - AGENCY AUTHORITY REGULATIONS\n\nAuthority: 24 U.S.C. 682\n\n§ 567.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing agency authority in accordance with federal statutory requirements and administrative policy.\n\n§ 567.2 Definitions.\nFor purposes of this part:\n(a) Agency Authority means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 567.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for agency authority. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 567.4 Compliance procedures.\nCompliance with agency authority regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 567.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of agency authority requirements.\n\n§ 567.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2018-06-23\nFederal Register Citation: 83 FR 14896 (2025)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 516 F.1d 4243 (2021)",
+  "case_name": "United Holdings v. Garcia",
+  "date_filed": "2021-03-17",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Jones Esq.",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-804169"
+    },
+    {
+      "name": "Lee Esq.",
+      "firm": "Global Industries Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-858719"
+    }
+  ],
+  "legal_topics": [
+    "Agency Authority",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.9681347912796922,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:02.170398",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Agency Authority",
+    "target_year": 2021
+  }
+}

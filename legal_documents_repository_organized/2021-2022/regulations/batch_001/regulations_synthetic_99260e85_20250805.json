@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_99260e85_20250805",
+  "title": "Administrative Hearings - Document #99260e85",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 47 - Administrative Hearings\n\nPART 72 - ADMINISTRATIVE HEARINGS REGULATIONS\n\nAuthority: 26 U.S.C. 176\n\n§ 72.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing administrative hearings in accordance with federal statutory requirements and administrative policy.\n\n§ 72.2 Definitions.\nFor purposes of this part:\n(a) Administrative Hearings means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 72.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for administrative hearings. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 72.4 Compliance procedures.\nCompliance with administrative hearings regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 72.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of administrative hearings requirements.\n\n§ 72.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2025-12-07\nFederal Register Citation: 84 FR 57610 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 810 F.4d 9917 (2021)",
+  "case_name": "Ohio v. Anderson",
+  "date_filed": "2021-08-14",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Garcia Attorney",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-287086"
+    },
+    {
+      "name": "Jackson Esq.",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-626955"
+    }
+  ],
+  "legal_topics": [
+    "Administrative Hearings",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7961050454751933,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:04.135158",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Administrative Hearings",
+    "target_year": 2021
+  }
+}

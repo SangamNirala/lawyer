@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_db4b5019_20250805",
+  "title": "Notice and Comment - Document #db4b5019",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 29 - Notice And Comment\n\nPART 173 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 18 U.S.C. 374\n\n§ 173.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 173.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 173.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 173.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 173.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 173.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2025-01-20\nFederal Register Citation: 89 FR 83797 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 993 F.3d 8134 (2018)",
+  "case_name": "Rodriguez v. Federal Trade Commission",
+  "date_filed": "2018-06-19",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Garcia Esq.",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-967186"
+    },
+    {
+      "name": "White Esq.",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-351711"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.9036331444231093,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:05.192273",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2018
+  }
+}

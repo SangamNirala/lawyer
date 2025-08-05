@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_72bd55d8_20250805",
+  "title": "Judicial Review - Document #72bd55d8",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 48 - Judicial Review\n\nPART 296 - JUDICIAL REVIEW REGULATIONS\n\nAuthority: 50 U.S.C. 880\n\n§ 296.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing judicial review in accordance with federal statutory requirements and administrative policy.\n\n§ 296.2 Definitions.\nFor purposes of this part:\n(a) Judicial Review means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 296.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for judicial review. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 296.4 Compliance procedures.\nCompliance with judicial review regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 296.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of judicial review requirements.\n\n§ 296.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2021-06-07\nFederal Register Citation: 86 FR 14105 (2024)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 214 F.4d 9252 (2023)",
+  "case_name": "Pennsylvania v. Jackson",
+  "date_filed": "2023-09-04",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Garcia Attorney",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-297897"
+    },
+    {
+      "name": "Martin Attorney",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-119095"
+    }
+  ],
+  "legal_topics": [
+    "Judicial Review",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7346122298994406,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:06.907545",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Judicial Review",
+    "target_year": 2023
+  }
+}

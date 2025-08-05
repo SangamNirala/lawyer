@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_6762d08e_20250805",
+  "title": "Notice and Comment - Document #6762d08e",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 21 - Notice And Comment\n\nPART 908 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 15 U.S.C. 744\n\n§ 908.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 908.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 908.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 908.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 908.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 908.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2025-09-05\nFederal Register Citation: 82 FR 14929 (2020)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 107 F.1d 9258 (2021)",
+  "case_name": "United States v. Thomas",
+  "date_filed": "2021-12-16",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Esq.",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-454619"
+    },
+    {
+      "name": "Thompson Esq.",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-944945"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.7424545899785431,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:06.245837",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2021
+  }
+}

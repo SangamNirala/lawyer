@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_ed167a9c_20250805",
+  "title": "Notice and Comment - Document #ed167a9c",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 50 - Notice And Comment\n\nPART 522 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 21 U.S.C. 671\n\n§ 522.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 522.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 522.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 522.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 522.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 522.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-10-24\nFederal Register Citation: 83 FR 37561 (2022)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 749 F.4d 9706 (2023)",
+  "case_name": "Prime Services v. Johnson",
+  "date_filed": "2023-01-17",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Esq.",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-439476"
+    },
+    {
+      "name": "Lee Attorney",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-390183"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.96690862892689,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:57.824190",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2023
+  }
+}

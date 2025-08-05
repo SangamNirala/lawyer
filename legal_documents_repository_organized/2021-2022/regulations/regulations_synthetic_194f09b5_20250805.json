@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_194f09b5_20250805",
+  "title": "Notice and Comment - Document #194f09b5",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 24 - Notice And Comment\n\nPART 821 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 5 U.S.C. 241\n\n§ 821.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 821.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 821.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 821.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 821.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 821.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-01-08\nFederal Register Citation: 86 FR 28563 (2021)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 930 F.4d 9450 (2021)",
+  "case_name": "Advanced Solutions v. Tech Corp",
+  "date_filed": "2021-03-16",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Jones Attorney",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-146673"
+    },
+    {
+      "name": "Thompson Esq.",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-110402"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.8610792777666725,
+  "metadata": {
+    "generation_date": "2025-08-05T13:21:56.678781",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2021
+  }
+}

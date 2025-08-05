@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_badb1a44_20250805",
+  "title": "Notice and Comment - Document #badb1a44",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 49 - Notice And Comment\n\nPART 528 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 48 U.S.C. 642\n\n§ 528.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 528.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 528.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 528.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 528.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 528.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2018-03-23\nFederal Register Citation: 84 FR 51883 (2019)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 912 F.2d 2836 (2022)",
+  "case_name": "Smith v. Lopez",
+  "date_filed": "2022-06-02",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Garcia Esq.",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-759905"
+    },
+    {
+      "name": "Anderson Esq.",
+      "firm": "United Holdings Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-426503"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.805944018995909,
+  "metadata": {
+    "generation_date": "2025-08-05T13:22:00.496525",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2022
+  }
+}
