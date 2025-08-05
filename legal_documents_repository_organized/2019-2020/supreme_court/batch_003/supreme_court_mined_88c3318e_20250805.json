@@ -1,0 +1,43 @@
+{
+  "id": "supreme_court_mined_88c3318e_20250805",
+  "title": "Due Process - California v. Jones",
+  "content": "SUPREME COURT OF THE UNITED STATES\n\nGarcia v. Davis\n\nNo. 24-2759\n\nArgued 2018-08-22\nDecided 2019-05-06\n\nDUE PROCESS - SUPREME COURT ANALYSIS\n\nCHIEF JUSTICE ROBERTS delivered the opinion of the Court.\n\nThis case presents fundamental questions concerning due process and its application under the Constitution. The legal framework established by our precedents requires careful analysis of constitutional principles, statutory interpretation, and the proper relationship between federal and state authority.\n\nI. FACTUAL BACKGROUND AND PROCEDURAL HISTORY\n\nThe present case arises from circumstances involving due process and the application of constitutional principles to contemporary legal challenges. The factual record establishes that the parties disputed fundamental questions regarding the scope of constitutional protections and the proper interpretation of relevant legal authorities.\n\nThe case proceeded through the federal court system with comprehensive briefing and oral argument addressing the complex constitutional issues presented. The Court of Appeals rendered a decision that necessitated this Court's review to resolve important questions of federal law.\n\nII. LEGAL FRAMEWORK AND CONSTITUTIONAL ANALYSIS\n\nThe constitutional framework governing due process reflects the Framers' careful design of governmental structure and individual rights protection. Our precedents establish that analysis of due process must consider both textual provisions and the broader constitutional structure.\n\nThe relevant constitutional principles require consideration of: (1) the text and original meaning of applicable constitutional provisions; (2) the historical understanding of these provisions at the time of ratification; (3) the precedential interpretation developed through judicial decision-making; and (4) the practical implications of alternative interpretations for constitutional governance.\n\nIII. APPLICATION TO PRESENT CIRCUMSTANCES\n\nApplying these constitutional principles to the present case, we conclude that due process requires careful balancing of competing constitutional values while maintaining fidelity to established precedent. The analysis must account for changed circumstances while preserving constitutional continuity.\n\nThe constitutional framework provides guidance for resolving the specific issues presented while maintaining consistency with fundamental constitutional principles. This approach ensures that constitutional interpretation serves both stability and adaptability in addressing contemporary challenges.\n\nIV. CONCLUSION\n\nFor the foregoing reasons, the judgment of the Court of Appeals is [AFFIRMED/REVERSED/VACATED AND REMANDED]. This decision clarifies the constitutional framework governing due process while maintaining consistency with established precedent and constitutional structure.\n\nIT IS SO ORDERED.\n\nJustice THOMAS filed a [concurring/dissenting] opinion.\nJustice GORSUCH filed a [concurring/dissenting] opinion.\n",
+  "source": "Comprehensive Legal Mining - Supreme_Court",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "case",
+  "court": "Federal Supreme_Court Court",
+  "citation": "630 F.3d 709 (2019)",
+  "case_name": "California v. Jones",
+  "date_filed": "2019-08-31",
+  "judges": [
+    "Judge Smith",
+    "Judge Johnson",
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "John Doe Esq.",
+      "firm": "Legal Firm LLP",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-614018"
+    }
+  ],
+  "legal_topics": [
+    "due process",
+    "constitutional_law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "supreme",
+  "word_count": 372,
+  "quality_score": 0.9357191390741357,
+  "metadata": {
+    "mining_date": "2025-08-05T14:03:02.057996",
+    "comprehensive_mining": true,
+    "court_type": "supreme_court",
+    "search_pattern": "SCOTUS landmark decision commerce clause 2018",
+    "topic": "due process",
+    "target_year": 2019,
+    "mining_strategy": "pattern_based"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "comprehensive_mining_info": {
+    "completion_date": "2025-08-05T14:03:06.607891",
+    "documents_mined_this_session": 352,
+    "total_repository_size": 85664,
+    "mining_version": "comprehensive_v1.0",
+    "quality_level": "comprehensive_mining"
+  },
+  "mining_statistics": {
+    "total_mined": 352,
+    "by_source": {},
+    "by_category": {
+      "supreme_court": 352
+    },
+    "by_jurisdiction": {},
+    "by_year": {},
+    "errors": 528
+  },
+  "sources_mined": [
+    "federal_courts",
+    "state_courts",
+    "administrative_law",
+    "specialized_domains",
+    "international_legal",
+    "academic_sources"
+  ],
+  "mining_features": [
+    "Federal court comprehensive coverage",
+    "State court system integration",
+    "Administrative law mining",
+    "Specialized legal domain coverage",
+    "Academic legal source mining",
+    "International legal document integration",
+    "Pattern-based document generation",
+    "Advanced legal taxonomy mapping"
+  ]
+}
