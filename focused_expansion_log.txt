@@ -1,0 +1,7 @@
+2025-08-05 18:44:06,535 - INFO - ✅ MongoDB connection established
+2025-08-05 18:44:06,535 - INFO - 🚀 Starting Focused Repository Expansion
+2025-08-05 18:44:06,535 - INFO - 🎯 Target: 10,000 additional documents
+2025-08-05 18:44:06,535 - INFO - ================================================================================
+2025-08-05 18:44:06,535 - INFO - 📚 Phase 1: CourtListener Document Collection
+2025-08-05 18:44:06,535 - INFO - 🏛️ Collecting 6,000 documents from CourtListener...
+2025-08-05 18:44:06,771 - WARNING - API error 403
