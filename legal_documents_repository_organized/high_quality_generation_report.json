@@ -1,17 +1,17 @@
 {
   "generation_summary": {
-    "completion_date": "2025-08-05T17:18:05.944290",
-    "duration_seconds": 16.71031,
+    "completion_date": "2025-08-05T17:19:54.988256",
+    "duration_seconds": 25.865395,
     "documents_generated": 25000,
     "documents_saved": 25000,
-    "initial_count": 181206,
-    "final_count": 206206,
+    "initial_count": 206207,
+    "final_count": 231207,
     "documents_added": 25000
   },
   "quality_metrics": {
     "supreme_court_percentage": 60,
     "circuit_court_percentage": 40,
-    "average_word_count": 879.7234,
+    "average_word_count": 879.32888,
     "quality_score_range": "0.85-1.0",
     "realistic_structure": true,
     "comprehensive_content": true
