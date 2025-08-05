@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_09981a90_20250805",
+  "title": "Agency Authority - Document #09981a90",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 17 - Agency Authority\n\nPART 555 - AGENCY AUTHORITY REGULATIONS\n\nAuthority: 47 U.S.C. 670\n\n§ 555.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing agency authority in accordance with federal statutory requirements and administrative policy.\n\n§ 555.2 Definitions.\nFor purposes of this part:\n(a) Agency Authority means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 555.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for agency authority. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 555.4 Compliance procedures.\nCompliance with agency authority regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 555.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of agency authority requirements.\n\n§ 555.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-05-10\nFederal Register Citation: 90 FR 55156 (2023)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 221 F.1d 539 (2020)",
+  "case_name": "Tech Corp v. Metro Systems",
+  "date_filed": "2020-06-26",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Williams Attorney",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-387305"
+    },
+    {
+      "name": "Lee Attorney",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-191461"
+    }
+  ],
+  "legal_topics": [
+    "Agency Authority",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7757695962337577,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:06.454578",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Agency Authority",
+    "target_year": 2020
+  }
+}

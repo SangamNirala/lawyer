@@ -1,0 +1,45 @@
+{
+  "id": "statutes_synthetic_21d54683_20250805",
+  "title": "Separation of Powers - Document #21d54683",
+  "content": "UNITED STATES CODE\nTitle 13 - Separation Of Powers\n\nChapter 25 - SEPARATION OF POWERS\n\n§ 711. Separation Of Powers provisions\n\n(a) GENERAL RULE.—The provisions of this section shall apply to all matters involving separation of powers under federal jurisdiction.\n\n(b) DEFINITIONS.—In this section:\n    (1) The term \"separation of powers\" means the legal framework, procedures, and standards established for separation of powers under federal law.\n    (2) The term \"federal jurisdiction\" means the authority exercised by federal courts and agencies.\n\n(c) REQUIREMENTS.—\n    (1) All covered entities must comply with federal standards for separation of powers.\n    (2) Compliance includes adherence to procedural requirements and substantive standards.\n    (3) Documentation and reporting requirements must be satisfied as specified.\n\n(d) ENFORCEMENT.—\n    The Attorney General may bring enforcement actions for violations of separation of powers requirements. Civil penalties and injunctive relief are available remedies.\n\n(e) EFFECTIVE DATE.—This section shall take effect 90 days after the date of enactment.\n\n(f) REGULATIONS.—The Secretary may prescribe regulations necessary to carry out this section.\n\nEnacted: 2019-07-18\nPublic Law: 111-141\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "statutes",
+  "court": "Federal Authority",
+  "citation": "Synthetic 558 F.1d 4493 (2023)",
+  "case_name": "Johnson v. State of Ohio",
+  "date_filed": "2023-01-27",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Williams Attorney",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-515639"
+    },
+    {
+      "name": "Lopez Esq.",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-143177"
+    }
+  ],
+  "legal_topics": [
+    "Separation of Powers",
+    "constitutional law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 169,
+  "quality_score": 0.9414119548590913,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:18.316297",
+    "synthetic": true,
+    "category": "statutes",
+    "topic": "Separation of Powers",
+    "target_year": 2023
+  }
+}

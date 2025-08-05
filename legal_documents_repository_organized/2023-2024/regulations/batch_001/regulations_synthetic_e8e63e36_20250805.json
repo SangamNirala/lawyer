@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_e8e63e36_20250805",
+  "title": "Agency Authority - Document #e8e63e36",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 29 - Agency Authority\n\nPART 388 - AGENCY AUTHORITY REGULATIONS\n\nAuthority: 7 U.S.C. 245\n\n§ 388.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing agency authority in accordance with federal statutory requirements and administrative policy.\n\n§ 388.2 Definitions.\nFor purposes of this part:\n(a) Agency Authority means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 388.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for agency authority. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 388.4 Compliance procedures.\nCompliance with agency authority regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 388.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of agency authority requirements.\n\n§ 388.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2022-06-12\nFederal Register Citation: 80 FR 66019 (2025)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 506 F.2d 8584 (2023)",
+  "case_name": "Brown v. State of Pennsylvania",
+  "date_filed": "2023-02-18",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Esq.",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-448062"
+    },
+    {
+      "name": "Jackson Attorney",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-848008"
+    }
+  ],
+  "legal_topics": [
+    "Agency Authority",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.797174385574657,
+  "metadata": {
+    "generation_date": "2025-08-05T13:25:50.434853",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Agency Authority",
+    "target_year": 2023
+  }
+}

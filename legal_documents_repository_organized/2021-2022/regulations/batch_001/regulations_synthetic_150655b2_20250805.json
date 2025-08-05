@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_150655b2_20250805",
+  "title": "Administrative Hearings - Document #150655b2",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 3 - Administrative Hearings\n\nPART 438 - ADMINISTRATIVE HEARINGS REGULATIONS\n\nAuthority: 37 U.S.C. 222\n\n§ 438.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing administrative hearings in accordance with federal statutory requirements and administrative policy.\n\n§ 438.2 Definitions.\nFor purposes of this part:\n(a) Administrative Hearings means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 438.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for administrative hearings. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 438.4 Compliance procedures.\nCompliance with administrative hearings regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 438.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of administrative hearings requirements.\n\n§ 438.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2023-12-27\nFederal Register Citation: 83 FR 75947 (2020)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 203 F.3d 6095 (2021)",
+  "case_name": "In re Corporate Restructuring",
+  "date_filed": "2021-11-01",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Martinez Attorney",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-190354"
+    },
+    {
+      "name": "Jackson Attorney",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-576522"
+    }
+  ],
+  "legal_topics": [
+    "Administrative Hearings",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.8517720126409402,
+  "metadata": {
+    "generation_date": "2025-08-05T13:25:58.332609",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Administrative Hearings",
+    "target_year": 2021
+  }
+}

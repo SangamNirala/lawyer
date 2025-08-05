@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_ed2ea9f9_20250805",
+  "title": "Notice and Comment - Document #ed2ea9f9",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 22 - Notice And Comment\n\nPART 780 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 17 U.S.C. 630\n\n§ 780.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 780.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 780.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 780.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 780.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 780.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2022-10-16\nFederal Register Citation: 84 FR 17752 (2019)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 278 F.3d 60 (2025)",
+  "case_name": "Brown v. State of Michigan",
+  "date_filed": "2025-04-28",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Jones Attorney",
+      "firm": "Metro Systems Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-779786"
+    },
+    {
+      "name": "Anderson Esq.",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-536829"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.9213464813451417,
+  "metadata": {
+    "generation_date": "2025-08-05T13:25:56.010275",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2025
+  }
+}

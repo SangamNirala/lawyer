@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_e197be18_20250805",
+  "title": "Judicial Review - Document #e197be18",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 1 - Judicial Review\n\nPART 494 - JUDICIAL REVIEW REGULATIONS\n\nAuthority: 26 U.S.C. 740\n\n§ 494.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing judicial review in accordance with federal statutory requirements and administrative policy.\n\n§ 494.2 Definitions.\nFor purposes of this part:\n(a) Judicial Review means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 494.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for judicial review. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 494.4 Compliance procedures.\nCompliance with judicial review regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 494.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of judicial review requirements.\n\n§ 494.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2018-02-05\nFederal Register Citation: 80 FR 34532 (2022)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 525 F.3d 556 (2024)",
+  "case_name": "United Holdings v. United Holdings",
+  "date_filed": "2024-11-24",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Esq.",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-571254"
+    },
+    {
+      "name": "Anderson Attorney",
+      "firm": "United Holdings Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-921577"
+    }
+  ],
+  "legal_topics": [
+    "Judicial Review",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.9829006663423756,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:05.349581",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Judicial Review",
+    "target_year": 2024
+  }
+}

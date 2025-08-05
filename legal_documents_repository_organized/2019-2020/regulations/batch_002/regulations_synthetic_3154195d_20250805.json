@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_3154195d_20250805",
+  "title": "Rulemaking Process - Document #3154195d",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 8 - Rulemaking Process\n\nPART 604 - RULEMAKING PROCESS REGULATIONS\n\nAuthority: 11 U.S.C. 185\n\n§ 604.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing rulemaking process in accordance with federal statutory requirements and administrative policy.\n\n§ 604.2 Definitions.\nFor purposes of this part:\n(a) Rulemaking Process means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 604.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for rulemaking process. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 604.4 Compliance procedures.\nCompliance with rulemaking process regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 604.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of rulemaking process requirements.\n\n§ 604.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-06-16\nFederal Register Citation: 85 FR 56817 (2021)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 827 F.3d 6689 (2019)",
+  "case_name": "Advanced Solutions v. Rodriguez",
+  "date_filed": "2019-04-22",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Attorney",
+      "firm": "Metro Systems Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-716203"
+    },
+    {
+      "name": "Lopez Esq.",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-974381"
+    }
+  ],
+  "legal_topics": [
+    "Rulemaking Process",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7537078134533699,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:05.190725",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Rulemaking Process",
+    "target_year": 2019
+  }
+}

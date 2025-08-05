@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_9ce174e4_20250805",
+  "title": "Notice and Comment - Document #9ce174e4",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 44 - Notice And Comment\n\nPART 637 - NOTICE AND COMMENT REGULATIONS\n\nAuthority: 15 U.S.C. 487\n\n§ 637.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing notice and comment in accordance with federal statutory requirements and administrative policy.\n\n§ 637.2 Definitions.\nFor purposes of this part:\n(a) Notice And Comment means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 637.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for notice and comment. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 637.4 Compliance procedures.\nCompliance with notice and comment regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 637.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of notice and comment requirements.\n\n§ 637.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2020-09-09\nFederal Register Citation: 81 FR 59829 (2021)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 353 F.4d 591 (2022)",
+  "case_name": "Garcia v. State of New York",
+  "date_filed": "2022-02-15",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Davis Esq.",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-834171"
+    },
+    {
+      "name": "Lee Esq.",
+      "firm": "United Holdings Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-994333"
+    }
+  ],
+  "legal_topics": [
+    "Notice and Comment",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 208,
+  "quality_score": 0.9811405270012286,
+  "metadata": {
+    "generation_date": "2025-08-05T13:25:51.110043",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Notice and Comment",
+    "target_year": 2022
+  }
+}

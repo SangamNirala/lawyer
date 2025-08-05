@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_72dbb42d_20250805",
+  "title": "Agency Authority - Document #72dbb42d",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 8 - Agency Authority\n\nPART 133 - AGENCY AUTHORITY REGULATIONS\n\nAuthority: 26 U.S.C. 357\n\n§ 133.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing agency authority in accordance with federal statutory requirements and administrative policy.\n\n§ 133.2 Definitions.\nFor purposes of this part:\n(a) Agency Authority means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 133.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for agency authority. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 133.4 Compliance procedures.\nCompliance with agency authority regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 133.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of agency authority requirements.\n\n§ 133.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2025-08-25\nFederal Register Citation: 80 FR 72695 (2025)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 756 F.1d 1627 (2022)",
+  "case_name": "Advanced Solutions v. Brown",
+  "date_filed": "2022-09-21",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Miller Attorney",
+      "firm": "Advanced Solutions Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-417416"
+    },
+    {
+      "name": "Thomas Attorney",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-333269"
+    }
+  ],
+  "legal_topics": [
+    "Agency Authority",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.8606061510066473,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:04.638767",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Agency Authority",
+    "target_year": 2022
+  }
+}

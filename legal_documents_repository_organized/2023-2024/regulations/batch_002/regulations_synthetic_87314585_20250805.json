@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_87314585_20250805",
+  "title": "Regulatory Compliance - Document #87314585",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 26 - Regulatory Compliance\n\nPART 187 - REGULATORY COMPLIANCE REGULATIONS\n\nAuthority: 33 U.S.C. 547\n\n§ 187.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing regulatory compliance in accordance with federal statutory requirements and administrative policy.\n\n§ 187.2 Definitions.\nFor purposes of this part:\n(a) Regulatory Compliance means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 187.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for regulatory compliance. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 187.4 Compliance procedures.\nCompliance with regulatory compliance regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 187.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of regulatory compliance requirements.\n\n§ 187.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2020-03-19\nFederal Register Citation: 82 FR 22257 (2022)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 719 F.2d 99 (2024)",
+  "case_name": "Global Industries v. Brown",
+  "date_filed": "2024-03-25",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Martinez Attorney",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-141213"
+    },
+    {
+      "name": "White Esq.",
+      "firm": "United Holdings Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-975925"
+    }
+  ],
+  "legal_topics": [
+    "Regulatory Compliance",
+    "administrative law"
+  ],
+  "precedential_status": "Unpublished",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.8221344746908992,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:00.767954",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Regulatory Compliance",
+    "target_year": 2024
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_36ec80bc_20250805",
+  "title": "Rulemaking Process - Document #36ec80bc",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 40 - Rulemaking Process\n\nPART 576 - RULEMAKING PROCESS REGULATIONS\n\nAuthority: 27 U.S.C. 425\n\n§ 576.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing rulemaking process in accordance with federal statutory requirements and administrative policy.\n\n§ 576.2 Definitions.\nFor purposes of this part:\n(a) Rulemaking Process means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 576.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for rulemaking process. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 576.4 Compliance procedures.\nCompliance with rulemaking process regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 576.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of rulemaking process requirements.\n\n§ 576.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2018-02-22\nFederal Register Citation: 88 FR 21270 (2022)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 496 F.2d 1335 (2023)",
+  "case_name": "Advanced Solutions v. Prime Services",
+  "date_filed": "2023-06-04",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Martinez Esq.",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-604337"
+    },
+    {
+      "name": "Martin Attorney",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-856829"
+    }
+  ],
+  "legal_topics": [
+    "Rulemaking Process",
+    "administrative law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7663664724625104,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:08.046718",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Rulemaking Process",
+    "target_year": 2023
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "statutes_synthetic_733f1c77_20250805",
+  "title": "Separation of Powers - Document #733f1c77",
+  "content": "UNITED STATES CODE\nTitle 31 - Separation Of Powers\n\nChapter 37 - SEPARATION OF POWERS\n\n§ 1042. Separation Of Powers provisions\n\n(a) GENERAL RULE.—The provisions of this section shall apply to all matters involving separation of powers under federal jurisdiction.\n\n(b) DEFINITIONS.—In this section:\n    (1) The term \"separation of powers\" means the legal framework, procedures, and standards established for separation of powers under federal law.\n    (2) The term \"federal jurisdiction\" means the authority exercised by federal courts and agencies.\n\n(c) REQUIREMENTS.—\n    (1) All covered entities must comply with federal standards for separation of powers.\n    (2) Compliance includes adherence to procedural requirements and substantive standards.\n    (3) Documentation and reporting requirements must be satisfied as specified.\n\n(d) ENFORCEMENT.—\n    The Attorney General may bring enforcement actions for violations of separation of powers requirements. Civil penalties and injunctive relief are available remedies.\n\n(e) EFFECTIVE DATE.—This section shall take effect 107 days after the date of enactment.\n\n(f) REGULATIONS.—The Secretary may prescribe regulations necessary to carry out this section.\n\nEnacted: 2025-03-20\nPublic Law: 118-482\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "statutes",
+  "court": "Federal Authority",
+  "citation": "Synthetic 253 F.2d 1873 (2020)",
+  "case_name": "Michigan v. Lee",
+  "date_filed": "2020-11-14",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Miller Attorney",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-781241"
+    },
+    {
+      "name": "Lopez Esq.",
+      "firm": "Tech Corp Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-760378"
+    }
+  ],
+  "legal_topics": [
+    "Separation of Powers",
+    "constitutional law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 169,
+  "quality_score": 0.8111658701509092,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:20.568190",
+    "synthetic": true,
+    "category": "statutes",
+    "topic": "Separation of Powers",
+    "target_year": 2020
+  }
+}

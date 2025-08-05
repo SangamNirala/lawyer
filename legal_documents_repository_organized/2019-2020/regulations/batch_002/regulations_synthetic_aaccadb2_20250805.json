@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_aaccadb2_20250805",
+  "title": "Enforcement Actions - Document #aaccadb2",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 36 - Enforcement Actions\n\nPART 561 - ENFORCEMENT ACTIONS REGULATIONS\n\nAuthority: 44 U.S.C. 910\n\n§ 561.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing enforcement actions in accordance with federal statutory requirements and administrative policy.\n\n§ 561.2 Definitions.\nFor purposes of this part:\n(a) Enforcement Actions means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 561.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for enforcement actions. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 561.4 Compliance procedures.\nCompliance with enforcement actions regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 561.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of enforcement actions requirements.\n\n§ 561.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2021-12-19\nFederal Register Citation: 83 FR 10362 (2019)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 233 F.3d 5582 (2019)",
+  "case_name": "In re Patent Application",
+  "date_filed": "2019-05-29",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Attorney",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-888912"
+    },
+    {
+      "name": "Lopez Esq.",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-654645"
+    }
+  ],
+  "legal_topics": [
+    "Enforcement Actions",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.9927738849611343,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:05.164040",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Enforcement Actions",
+    "target_year": 2019
+  }
+}

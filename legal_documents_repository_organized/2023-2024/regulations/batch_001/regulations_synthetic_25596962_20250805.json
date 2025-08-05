@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_25596962_20250805",
+  "title": "Regulatory Compliance - Document #25596962",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 32 - Regulatory Compliance\n\nPART 215 - REGULATORY COMPLIANCE REGULATIONS\n\nAuthority: 32 U.S.C. 894\n\n§ 215.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing regulatory compliance in accordance with federal statutory requirements and administrative policy.\n\n§ 215.2 Definitions.\nFor purposes of this part:\n(a) Regulatory Compliance means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 215.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for regulatory compliance. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 215.4 Compliance procedures.\nCompliance with regulatory compliance regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 215.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of regulatory compliance requirements.\n\n§ 215.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2019-02-01\nFederal Register Citation: 80 FR 45574 (2020)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 480 F.4d 8957 (2023)",
+  "case_name": "Rodriguez v. State of Florida",
+  "date_filed": "2023-08-28",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Johnson Attorney",
+      "firm": "Advanced Solutions Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-963770"
+    },
+    {
+      "name": "Moore Attorney",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-937323"
+    }
+  ],
+  "legal_topics": [
+    "Regulatory Compliance",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.8876134816492429,
+  "metadata": {
+    "generation_date": "2025-08-05T13:25:58.346696",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Regulatory Compliance",
+    "target_year": 2023
+  }
+}

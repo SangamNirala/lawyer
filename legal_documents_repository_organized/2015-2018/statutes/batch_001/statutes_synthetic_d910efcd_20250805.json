@@ -1,0 +1,45 @@
+{
+  "id": "statutes_synthetic_d910efcd_20250805",
+  "title": "Federalism - Document #d910efcd",
+  "content": "UNITED STATES CODE\nTitle 38 - Federalism\n\nChapter 53 - FEDERALISM\n\n§ 7917. Federalism provisions\n\n(a) GENERAL RULE.—The provisions of this section shall apply to all matters involving federalism under federal jurisdiction.\n\n(b) DEFINITIONS.—In this section:\n    (1) The term \"federalism\" means the legal framework, procedures, and standards established for federalism under federal law.\n    (2) The term \"federal jurisdiction\" means the authority exercised by federal courts and agencies.\n\n(c) REQUIREMENTS.—\n    (1) All covered entities must comply with federal standards for federalism.\n    (2) Compliance includes adherence to procedural requirements and substantive standards.\n    (3) Documentation and reporting requirements must be satisfied as specified.\n\n(d) ENFORCEMENT.—\n    The Attorney General may bring enforcement actions for violations of federalism requirements. Civil penalties and injunctive relief are available remedies.\n\n(e) EFFECTIVE DATE.—This section shall take effect 143 days after the date of enactment.\n\n(f) REGULATIONS.—The Secretary may prescribe regulations necessary to carry out this section.\n\nEnacted: 2019-11-15\nPublic Law: 117-106\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "statutes",
+  "court": "Federal Authority",
+  "citation": "Synthetic 905 F.4d 9016 (2018)",
+  "case_name": "Metro Systems v. Jones",
+  "date_filed": "2018-02-12",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Rodriguez Attorney",
+      "firm": "Global Industries Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-282930"
+    },
+    {
+      "name": "Martin Esq.",
+      "firm": "Advanced Solutions Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-383520"
+    }
+  ],
+  "legal_topics": [
+    "Federalism",
+    "constitutional law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 153,
+  "quality_score": 0.7598664278510108,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:14.212761",
+    "synthetic": true,
+    "category": "statutes",
+    "topic": "Federalism",
+    "target_year": 2018
+  }
+}

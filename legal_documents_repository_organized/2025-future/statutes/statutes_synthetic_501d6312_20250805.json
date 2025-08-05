@@ -1,0 +1,45 @@
+{
+  "id": "statutes_synthetic_501d6312_20250805",
+  "title": "Religious Freedom - Document #501d6312",
+  "content": "UNITED STATES CODE\nTitle 3 - Religious Freedom\n\nChapter 20 - RELIGIOUS FREEDOM\n\n§ 6236. Religious Freedom provisions\n\n(a) GENERAL RULE.—The provisions of this section shall apply to all matters involving religious freedom under federal jurisdiction.\n\n(b) DEFINITIONS.—In this section:\n    (1) The term \"religious freedom\" means the legal framework, procedures, and standards established for religious freedom under federal law.\n    (2) The term \"federal jurisdiction\" means the authority exercised by federal courts and agencies.\n\n(c) REQUIREMENTS.—\n    (1) All covered entities must comply with federal standards for religious freedom.\n    (2) Compliance includes adherence to procedural requirements and substantive standards.\n    (3) Documentation and reporting requirements must be satisfied as specified.\n\n(d) ENFORCEMENT.—\n    The Attorney General may bring enforcement actions for violations of religious freedom requirements. Civil penalties and injunctive relief are available remedies.\n\n(e) EFFECTIVE DATE.—This section shall take effect 150 days after the date of enactment.\n\n(f) REGULATIONS.—The Secretary may prescribe regulations necessary to carry out this section.\n\nEnacted: 2025-06-25\nPublic Law: 110-146\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "statutes",
+  "court": "Federal Authority",
+  "citation": "Synthetic 529 F.4d 2638 (2025)",
+  "case_name": "California v. Martin",
+  "date_filed": "2025-06-02",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Smith Attorney",
+      "firm": "Prime Services Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-134553"
+    },
+    {
+      "name": "Thomas Attorney",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-340243"
+    }
+  ],
+  "legal_topics": [
+    "Religious Freedom",
+    "constitutional law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 161,
+  "quality_score": 0.8067926713872542,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:17.986560",
+    "synthetic": true,
+    "category": "statutes",
+    "topic": "Religious Freedom",
+    "target_year": 2025
+  }
+}

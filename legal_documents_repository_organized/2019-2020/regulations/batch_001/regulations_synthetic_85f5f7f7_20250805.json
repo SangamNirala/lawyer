@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_85f5f7f7_20250805",
+  "title": "Administrative Hearings - Document #85f5f7f7",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 38 - Administrative Hearings\n\nPART 535 - ADMINISTRATIVE HEARINGS REGULATIONS\n\nAuthority: 41 U.S.C. 411\n\n§ 535.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing administrative hearings in accordance with federal statutory requirements and administrative policy.\n\n§ 535.2 Definitions.\nFor purposes of this part:\n(a) Administrative Hearings means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 535.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for administrative hearings. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 535.4 Compliance procedures.\nCompliance with administrative hearings regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 535.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of administrative hearings requirements.\n\n§ 535.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2024-12-13\nFederal Register Citation: 90 FR 42674 (2023)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 277 F.1d 3700 (2019)",
+  "case_name": "Prime Services v. United Holdings",
+  "date_filed": "2019-11-21",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Davis Attorney",
+      "firm": "Tech Corp Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-763087"
+    },
+    {
+      "name": "Anderson Esq.",
+      "firm": "United Holdings Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-129468"
+    }
+  ],
+  "legal_topics": [
+    "Administrative Hearings",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.9322231011761699,
+  "metadata": {
+    "generation_date": "2025-08-05T13:25:55.528768",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Administrative Hearings",
+    "target_year": 2019
+  }
+}

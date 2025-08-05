@@ -1,0 +1,45 @@
+{
+  "id": "regulations_synthetic_cd950185_20250805",
+  "title": "Enforcement Actions - Document #cd950185",
+  "content": "CODE OF FEDERAL REGULATIONS\nTitle 32 - Enforcement Actions\n\nPART 873 - ENFORCEMENT ACTIONS REGULATIONS\n\nAuthority: 12 U.S.C. 791\n\n§ 873.1 Purpose and scope.\nThe purpose of this part is to establish regulations governing enforcement actions in accordance with federal statutory requirements and administrative policy.\n\n§ 873.2 Definitions.\nFor purposes of this part:\n(a) Enforcement Actions means the regulatory framework established under federal law.\n(b) Compliance means adherence to all applicable requirements set forth in this part.\n(c) Violation means any failure to comply with the requirements of this part.\n\n§ 873.3 General requirements.\nAll entities subject to this regulation must comply with federal standards for enforcement actions. Compliance includes documentation, reporting, and adherence to established procedures.\n\n§ 873.4 Compliance procedures.\nCompliance with enforcement actions regulations requires submission of required documentation, adherence to reporting schedules, and maintenance of records as specified by the administering agency.\n\n§ 873.5 Enforcement.\nThe administering agency has authority to investigate violations, issue compliance orders, and pursue enforcement actions for violations of enforcement actions requirements.\n\n§ 873.6 Penalties.\nViolations of this part may result in civil penalties, administrative sanctions, or other enforcement actions as provided by law.\n\nEffective Date: 2020-09-24\nFederal Register Citation: 84 FR 99825 (2020)\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "administrative_law",
+  "document_type": "regulations",
+  "court": "Federal Authority",
+  "citation": "Synthetic 931 F.4d 4300 (2021)",
+  "case_name": "Martinez v. Thomas",
+  "date_filed": "2021-07-13",
+  "judges": [
+    "Judge Johnson"
+  ],
+  "attorneys": [
+    {
+      "name": "Brown Attorney",
+      "firm": "United Holdings Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-123616"
+    },
+    {
+      "name": "Thomas Esq.",
+      "firm": "Metro Systems Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-373134"
+    }
+  ],
+  "legal_topics": [
+    "Enforcement Actions",
+    "administrative law"
+  ],
+  "precedential_status": "Published",
+  "court_level": "trial",
+  "word_count": 201,
+  "quality_score": 0.7760360300600602,
+  "metadata": {
+    "generation_date": "2025-08-05T13:25:51.577613",
+    "synthetic": true,
+    "category": "regulations",
+    "topic": "Enforcement Actions",
+    "target_year": 2021
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "statutes_synthetic_cfb5d754_20250805",
+  "title": "Separation of Powers - Document #cfb5d754",
+  "content": "UNITED STATES CODE\nTitle 19 - Separation Of Powers\n\nChapter 69 - SEPARATION OF POWERS\n\n§ 1788. Separation Of Powers provisions\n\n(a) GENERAL RULE.—The provisions of this section shall apply to all matters involving separation of powers under federal jurisdiction.\n\n(b) DEFINITIONS.—In this section:\n    (1) The term \"separation of powers\" means the legal framework, procedures, and standards established for separation of powers under federal law.\n    (2) The term \"federal jurisdiction\" means the authority exercised by federal courts and agencies.\n\n(c) REQUIREMENTS.—\n    (1) All covered entities must comply with federal standards for separation of powers.\n    (2) Compliance includes adherence to procedural requirements and substantive standards.\n    (3) Documentation and reporting requirements must be satisfied as specified.\n\n(d) ENFORCEMENT.—\n    The Attorney General may bring enforcement actions for violations of separation of powers requirements. Civil penalties and injunctive relief are available remedies.\n\n(e) EFFECTIVE DATE.—This section shall take effect 114 days after the date of enactment.\n\n(f) REGULATIONS.—The Secretary may prescribe regulations necessary to carry out this section.\n\nEnacted: 2018-04-21\nPublic Law: 110-485\n",
+  "source": "Synthetic Legal Document Generator",
+  "jurisdiction": "us_federal",
+  "legal_domain": "constitutional_law",
+  "document_type": "statutes",
+  "court": "Federal Authority",
+  "citation": "Synthetic 595 F.3d 1312 (2021)",
+  "case_name": "United States v. Thomas",
+  "date_filed": "2021-02-07",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Brown Attorney",
+      "firm": "Metro Systems Law Firm",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-285584"
+    },
+    {
+      "name": "Thompson Attorney",
+      "firm": "Prime Services Legal Services",
+      "role": "Attorney for Defendant",
+      "bar_number": "Bar-115804"
+    }
+  ],
+  "legal_topics": [
+    "Separation of Powers",
+    "constitutional law"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "trial",
+  "word_count": 169,
+  "quality_score": 0.9131196635773898,
+  "metadata": {
+    "generation_date": "2025-08-05T13:26:12.812056",
+    "synthetic": true,
+    "category": "statutes",
+    "topic": "Separation of Powers",
+    "target_year": 2021
+  }
+}
