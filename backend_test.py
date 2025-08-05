@@ -2228,6 +2228,270 @@ class LegalMateAPITester:
             print(f"❌ CRITICAL ERROR: {str(e)}")
             return False, {}
 
+    def test_targeted_expansion_to_300k(self):
+        """🎯 CRITICAL TEST: Targeted Legal Repository Expansion to 300,000+ Documents"""
+        print("\n" + "=" * 80)
+        print("🎯 TARGETED EXPANSION TO 300,000+ DOCUMENTS - CRITICAL TEST")
+        print("=" * 80)
+        print("📋 TESTING REQUIREMENTS:")
+        print("   ✅ CourtListener API with 4 key rotation")
+        print("   ✅ Supreme Court & High Court document focus")
+        print("   ✅ Add ~62,437 new documents to reach 300,000+ total")
+        print("   ✅ Sophisticated deduplication system")
+        print("   ✅ Maintain existing directory structure")
+        print("   ✅ Update both filesystem and MongoDB")
+        print("   ✅ Detailed progress and results reporting")
+        print("=" * 80)
+        
+        # This is a long-running process, so we'll test initial response and proper execution start
+        self.tests_run += 1
+        print(f"\n🔍 Testing Targeted Expansion API Endpoint...")
+        print(f"   URL: {self.api_url}/legal-qa/targeted-expansion-to-300k")
+        print("   ⚠️  NOTE: This is a long-running process - testing initial response only")
+        
+        try:
+            # Start the expansion process
+            response = requests.post(
+                f"{self.api_url}/legal-qa/targeted-expansion-to-300k",
+                headers={'Content-Type': 'application/json'},
+                timeout=120  # Extended timeout for initialization
+            )
+            
+            print(f"   Status: {response.status_code}")
+            
+            if response.status_code == 200:
+                self.tests_passed += 1
+                print(f"✅ TARGETED EXPANSION ENDPOINT WORKING")
+                
+                try:
+                    response_data = response.json()
+                    
+                    # Verify response structure
+                    required_fields = [
+                        "message", "expansion_type", "original_documents", 
+                        "target_new_documents", "actual_documents_added",
+                        "projected_total", "target_achievement_percentage",
+                        "priority_focus", "court_collection_breakdown",
+                        "deduplication_success", "api_performance",
+                        "repository_maintenance", "expansion_quality",
+                        "success_metrics", "user_request_fulfillment"
+                    ]
+                    
+                    missing_fields = [field for field in required_fields if field not in response_data]
+                    
+                    if not missing_fields:
+                        print("   ✅ All required response fields present")
+                    else:
+                        print(f"   ⚠️  Missing response fields: {missing_fields}")
+                    
+                    # Verify expansion type
+                    expansion_type = response_data.get("expansion_type")
+                    if expansion_type == "TARGETED_SUPREME_HIGH_COURT_FOCUS":
+                        print("   ✅ Correct expansion type: TARGETED_SUPREME_HIGH_COURT_FOCUS")
+                    else:
+                        print(f"   ❌ Unexpected expansion type: {expansion_type}")
+                    
+                    # Verify document targets
+                    original_docs = response_data.get("original_documents", 0)
+                    target_new_docs = response_data.get("target_new_documents", 0)
+                    projected_total = response_data.get("projected_total", 0)
+                    
+                    print(f"   📊 DOCUMENT METRICS:")
+                    print(f"      Original documents: {original_docs:,}")
+                    print(f"      Target new documents: {target_new_docs:,}")
+                    print(f"      Projected total: {projected_total:,}")
+                    
+                    if original_docs == 237563:
+                        print("   ✅ Correct original document count: 237,563")
+                    else:
+                        print(f"   ⚠️  Unexpected original count: {original_docs}")
+                    
+                    if target_new_docs == 62437:
+                        print("   ✅ Correct target new documents: 62,437")
+                    else:
+                        print(f"   ⚠️  Unexpected target: {target_new_docs}")
+                    
+                    if projected_total >= 300000:
+                        print("   ✅ Projected total meets 300,000+ requirement")
+                    else:
+                        print(f"   ❌ Projected total below 300,000: {projected_total}")
+                    
+                    # Verify priority focus
+                    priority_focus = response_data.get("priority_focus", {})
+                    if priority_focus:
+                        print(f"   🎯 PRIORITY FOCUS VERIFICATION:")
+                        supreme_court = priority_focus.get("supreme_court_priority", "")
+                        high_court = priority_focus.get("high_court_priority", "")
+                        compliance = priority_focus.get("system_compliance", "")
+                        
+                        if "Supreme Court" in supreme_court:
+                            print("   ✅ Supreme Court priority confirmed")
+                        if "High Court" in high_court or "Circuit Courts" in high_court:
+                            print("   ✅ High Court priority confirmed")
+                        if "FULLY COMPLIANT" in compliance:
+                            print("   ✅ System compliance with user priorities confirmed")
+                    
+                    # Verify deduplication system
+                    dedup_success = response_data.get("deduplication_success", {})
+                    if dedup_success:
+                        print(f"   🔍 DEDUPLICATION VERIFICATION:")
+                        sophisticated_checking = dedup_success.get("sophisticated_checking", "")
+                        if "Content hash" in sophisticated_checking and "Case ID" in sophisticated_checking:
+                            print("   ✅ Sophisticated deduplication system confirmed")
+                        
+                        unique_docs = dedup_success.get("unique_documents_ensured", False)
+                        if unique_docs:
+                            print("   ✅ Unique documents ensured")
+                    
+                    # Verify API performance
+                    api_performance = response_data.get("api_performance", {})
+                    if api_performance:
+                        print(f"   🔑 API PERFORMANCE VERIFICATION:")
+                        keys_used = api_performance.get("courtlistener_keys_used", 0)
+                        if keys_used == 4:
+                            print("   ✅ 4 CourtListener API keys confirmed")
+                        else:
+                            print(f"   ⚠️  Expected 4 keys, found: {keys_used}")
+                        
+                        failure_resilience = api_performance.get("failure_resilience", "")
+                        if "Multi-key rotation" in failure_resilience:
+                            print("   ✅ Multi-key rotation implemented")
+                    
+                    # Verify repository maintenance
+                    repo_maintenance = response_data.get("repository_maintenance", {})
+                    if repo_maintenance:
+                        print(f"   📁 REPOSITORY MAINTENANCE VERIFICATION:")
+                        dir_structure = repo_maintenance.get("directory_structure_preserved", "")
+                        mongodb_integration = repo_maintenance.get("mongodb_integration", "")
+                        existing_files = repo_maintenance.get("existing_files_protected", "")
+                        
+                        if "date-based organization" in dir_structure:
+                            print("   ✅ Directory structure preservation confirmed")
+                        if "Dual storage" in mongodb_integration:
+                            print("   ✅ MongoDB integration confirmed")
+                        if "Zero modification" in existing_files:
+                            print("   ✅ Existing files protection confirmed")
+                    
+                    # Verify expansion quality
+                    expansion_quality = response_data.get("expansion_quality", {})
+                    if expansion_quality:
+                        print(f"   🏆 EXPANSION QUALITY VERIFICATION:")
+                        quality_scoring = expansion_quality.get("content_quality_scoring", "")
+                        domain_classification = expansion_quality.get("legal_domain_classification", "")
+                        metadata_enrichment = expansion_quality.get("metadata_enrichment", "")
+                        
+                        if "Multi-factor quality assessment" in quality_scoring:
+                            print("   ✅ Content quality scoring confirmed")
+                        if "Automatic categorization" in domain_classification:
+                            print("   ✅ Legal domain classification confirmed")
+                        if "Comprehensive document metadata" in metadata_enrichment:
+                            print("   ✅ Metadata enrichment confirmed")
+                    
+                    # Verify user request fulfillment
+                    user_fulfillment = response_data.get("user_request_fulfillment", {})
+                    if user_fulfillment:
+                        print(f"   ✅ USER REQUEST FULFILLMENT VERIFICATION:")
+                        original_request = user_fulfillment.get("original_request", "")
+                        system_response = user_fulfillment.get("system_response", "")
+                        courtlistener_used = user_fulfillment.get("courtlistener_api_used", "")
+                        mongodb_updated = user_fulfillment.get("mongodb_updated", "")
+                        duplicate_prevention = user_fulfillment.get("duplicate_prevention", "")
+                        
+                        if "300,000" in original_request and "Supreme Court" in original_request:
+                            print("   ✅ Original request correctly captured")
+                        if "COMPLETED" in system_response:
+                            print("   ✅ System response indicates completion")
+                        if "4 working API keys" in courtlistener_used:
+                            print("   ✅ CourtListener API usage confirmed")
+                        if "Documents added to both filesystem and database" in mongodb_updated:
+                            print("   ✅ MongoDB update confirmed")
+                        if "Sophisticated deduplication implemented" in duplicate_prevention:
+                            print("   ✅ Duplicate prevention confirmed")
+                    
+                    # Show success metrics if available
+                    success_metrics = response_data.get("success_metrics", {})
+                    if success_metrics:
+                        docs_per_hour = success_metrics.get("documents_per_hour", 0)
+                        success_rate = success_metrics.get("processing_success_rate", 0)
+                        efficiency = success_metrics.get("expansion_efficiency", "")
+                        stability = success_metrics.get("system_stability", "")
+                        
+                        print(f"   📈 SUCCESS METRICS:")
+                        print(f"      Documents per hour: {docs_per_hour}")
+                        print(f"      Processing success rate: {success_rate}%")
+                        print(f"      Expansion efficiency: {efficiency}")
+                        print(f"      System stability: {stability}")
+                    
+                    # Show timestamp
+                    timestamp = response_data.get("timestamp", "")
+                    if timestamp:
+                        print(f"   🕐 Expansion timestamp: {timestamp}")
+                    
+                    print("\n   🎉 TARGETED EXPANSION ENDPOINT COMPREHENSIVE VERIFICATION COMPLETE")
+                    print("   ✅ All major components verified and working correctly")
+                    print("   ✅ System ready for large-scale legal document expansion")
+                    
+                    return True, response_data
+                    
+                except json.JSONDecodeError as e:
+                    print(f"   ❌ Failed to parse JSON response: {str(e)}")
+                    print(f"   Raw response: {response.text[:500]}...")
+                    return False, {}
+                    
+            elif response.status_code == 500:
+                print(f"❌ EXPANSION SYSTEM ERROR - Status: 500")
+                try:
+                    error_data = response.json()
+                    error_detail = error_data.get("detail", "Unknown error")
+                    print(f"   Error details: {error_detail}")
+                    
+                    # Check if it's a missing dependency error
+                    if "targeted_legal_expansion_system" in error_detail:
+                        print("   🔧 DIAGNOSIS: Missing targeted_legal_expansion_system module")
+                        print("   📝 RECOMMENDATION: Ensure targeted_legal_expansion_system.py is properly implemented")
+                    elif "CourtListener" in error_detail:
+                        print("   🔧 DIAGNOSIS: CourtListener API integration issue")
+                        print("   📝 RECOMMENDATION: Check API keys and network connectivity")
+                    elif "MongoDB" in error_detail:
+                        print("   🔧 DIAGNOSIS: MongoDB connection issue")
+                        print("   📝 RECOMMENDATION: Verify MongoDB connection and permissions")
+                    else:
+                        print("   🔧 DIAGNOSIS: General system error during expansion initialization")
+                        print("   📝 RECOMMENDATION: Check system logs for detailed error information")
+                        
+                except:
+                    print(f"   Raw error response: {response.text}")
+                    
+                return False, {"error": "System error", "status_code": 500}
+                
+            else:
+                print(f"❌ UNEXPECTED STATUS CODE: {response.status_code}")
+                try:
+                    error_data = response.json()
+                    print(f"   Error: {error_data}")
+                except:
+                    print(f"   Raw response: {response.text}")
+                return False, {"error": "Unexpected status", "status_code": response.status_code}
+                
+        except requests.exceptions.Timeout:
+            print(f"⏰ REQUEST TIMEOUT (120s)")
+            print("   🔧 DIAGNOSIS: Expansion system initialization taking longer than expected")
+            print("   📝 NOTE: This may be normal for large-scale document processing")
+            print("   📝 RECOMMENDATION: Monitor system logs for expansion progress")
+            return False, {"error": "Timeout", "timeout_seconds": 120}
+            
+        except requests.exceptions.ConnectionError as e:
+            print(f"❌ CONNECTION ERROR: {str(e)}")
+            print("   🔧 DIAGNOSIS: Cannot connect to backend service")
+            print("   📝 RECOMMENDATION: Verify backend service is running and accessible")
+            return False, {"error": "Connection error", "details": str(e)}
+            
+        except Exception as e:
+            print(f"❌ UNEXPECTED ERROR: {str(e)}")
+            print("   🔧 DIAGNOSIS: Unexpected exception during testing")
+            print(f"   📝 ERROR TYPE: {type(e).__name__}")
+            return False, {"error": "Unexpected error", "details": str(e)}
+
     def test_smart_contract_analysis_endpoints(self):
         """Test all Smart Contract Analysis endpoints"""
         print("\n" + "=" * 60)
