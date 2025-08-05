@@ -6103,6 +6103,12 @@ def main():
     print("🧠"*30)
     tester.test_smart_contract_analysis_endpoints()
     
+    # CRITICAL: Targeted Legal Repository Expansion Test
+    print("\n" + "🎯"*30)
+    print("🎯 TARGETED LEGAL REPOSITORY EXPANSION TO 300,000+ DOCUMENTS")
+    print("🎯"*30)
+    test_results.append(tester.test_targeted_expansion_to_300k())
+    
     # Contract generation tests (main functionality)
     print("\n" + "="*40)
     print("🤖 Testing AI Contract Generation")
