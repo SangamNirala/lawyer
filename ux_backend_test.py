@@ -11,7 +11,7 @@ import urllib.parse
 from datetime import datetime
 
 class AdvancedUXAPITester:
-    def __init__(self, base_url="https://a4697fa4-f488-440c-b246-6204ffe776df.preview.emergentagent.com"):
+    def __init__(self, base_url="https://97dfd511-4205-4ca8-b6ab-639cffe1a111.preview.emergentagent.com"):
         self.base_url = base_url
         self.api_url = f"{base_url}/api"
         self.tests_run = 0
