@@ -762,7 +762,7 @@ The legal analysis demonstrates the continued importance of federal law in addre
                     continue
         
         # Add to MongoDB
-        if self.db and documents:
+        if self.db is not None and documents:
             try:
                 collection = self.db.legal_documents
                 
