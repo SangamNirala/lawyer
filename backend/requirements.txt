@@ -77,3 +77,4 @@ ldap3>=2.9.0
 xmltodict>=0.13.0
 pycryptodome>=3.19.0
 python3-saml>=1.15.0
+aiofiles>=24.1.0
