@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 
 class VoiceAgentBackendTester:
-    def __init__(self, base_url="https://15e86d28-d106-4390-abcb-c380d97a9f61.preview.emergentagent.com"):
+    def __init__(self, base_url="https://a4697fa4-f488-440c-b246-6204ffe776df.preview.emergentagent.com"):
         self.base_url = base_url
         self.api_url = f"{base_url}/api"
         self.tests_run = 0
