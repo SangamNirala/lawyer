@@ -1,0 +1,43 @@
+{
+  "id": "supreme_court_max_Supreme_Court_Maximum_4_5438_20250805_14",
+  "title": "Civil Rights - Brown v. Johnson",
+  "content": "SUPREME COURT OF THE UNITED STATES\n\nSmith v. Williams\n\nNo. 88-4333\n\nDecided 2019-08-11\n\nCIVIL RIGHTS - CONSTITUTIONAL ANALYSIS\n\nCHIEF JUSTICE delivered the opinion of the Court.\n\nThis case addresses fundamental constitutional questions regarding civil rights and its application under modern legal frameworks. The constitutional principles at issue require comprehensive analysis of textual interpretation, original meaning, and precedential development.\n\nI. CONSTITUTIONAL FRAMEWORK\n\nThe constitutional framework governing civil rights encompasses multiple provisions and requires consideration of the relationship between individual rights and governmental authority. Our precedents establish analytical approaches that balance constitutional text, historical understanding, and practical application.\n\nII. LEGAL ANALYSIS\n\nThe legal analysis in this case involves examination of civil rights within the broader constitutional structure. The applicable legal standards require consideration of constitutional principles, statutory interpretation, and the proper scope of judicial review.\n\nIII. APPLICATION AND CONCLUSION\n\nApplying constitutional principles to the present circumstances, we conclude that civil rights requires careful analysis that maintains fidelity to constitutional text while addressing contemporary legal challenges. This approach ensures constitutional interpretation that serves both legal certainty and adaptability.\n\nFor these reasons, the judgment is AFFIRMED/REVERSED. This decision clarifies the constitutional framework governing civil rights while maintaining consistency with established precedent.\n\nIT IS SO ORDERED.\n",
+  "source": "Maximum Expansion System - Supreme_Court_Maximum",
+  "jurisdiction": "us_federal",
+  "legal_domain": "civil rights",
+  "document_type": "case",
+  "court": "Federal Supreme Court Court",
+  "citation": "Max 330 F.3d 7946 (2019)",
+  "case_name": "Brown v. Johnson",
+  "date_filed": "2019-06-11",
+  "judges": [
+    "Judge Smith"
+  ],
+  "attorneys": [
+    {
+      "name": "Attorney Smith Esq.",
+      "firm": "Legal Services LLP",
+      "role": "Attorney for Plaintiff",
+      "bar_number": "Bar-397143"
+    }
+  ],
+  "legal_topics": [
+    "civil_rights",
+    "civil rights"
+  ],
+  "precedential_status": "Precedential",
+  "court_level": "supreme",
+  "word_count": 201,
+  "quality_score": 0.9830670361007456,
+  "metadata": {
+    "generation_date": "2025-08-05T14:04:37.569472",
+    "maximum_expansion": true,
+    "strategy": "Supreme_Court_Maximum",
+    "worker_id": 4,
+    "doc_number": 5438,
+    "category": "supreme_court",
+    "specialization": "civil_rights",
+    "target_year": 2019,
+    "generation_method": "high_performance_parallel"
+  }
+}
