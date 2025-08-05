@@ -10,7 +10,7 @@ import json
 from datetime import datetime
 
 class AdditionalBackendTester:
-    def __init__(self, base_url="https://cf5c9ceb-efa3-47ce-b11a-6e7d3fa14eb8.preview.emergentagent.com"):
+    def __init__(self, base_url="https://bc3d4b4f-8924-49a9-b358-1b3f7cb3bc12.preview.emergentagent.com"):
         self.base_url = base_url
         self.api_url = f"{base_url}/api"
         self.tests_run = 0
