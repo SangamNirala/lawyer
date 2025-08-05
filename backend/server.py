@@ -7497,6 +7497,109 @@ if RAG_SYSTEM_AVAILABLE:
                 status_code=500,
                 detail=f"Error rebuilding academic knowledge base: {str(e)}"
             )
+    
+    @api_router.post("/legal-qa/comprehensive-repository-expansion")
+    async def comprehensive_repository_expansion():
+        """
+        🚀 COMPREHENSIVE LEGAL REPOSITORY EXPANSION TO 100,000+ DOCUMENTS
+        
+        Multi-Phase Expansion Strategy:
+        Phase 1: CourtListener Bulk Collection (25,000+ documents)
+        Phase 2: Enhanced Web Research (35,000+ documents)  
+        Phase 3: Synthetic Document Generation (40,000+ documents)
+        
+        Features:
+        - Multiple CourtListener API key rotation for fault tolerance
+        - Maintains existing date-based directory structure (2015-2018, 2019-2020, etc.)
+        - Respects 1,000 files per directory limit with batch organization
+        - MongoDB integration with optimized indexes
+        - Quality control and deduplication
+        - Progress tracking and checkpoint/resume capability
+        - Real-time performance monitoring
+        
+        Target Achievement: 100,000+ high-quality legal documents
+        """
+        try:
+            logger.info("🚀 Starting Comprehensive Repository Expansion to 100,000+ documents")
+            
+            # Import the comprehensive expansion system
+            import sys
+            sys.path.append('/app')
+            from comprehensive_repository_expansion_system import ComprehensiveRepositoryExpander
+            
+            # Initialize and run the expansion
+            expander = ComprehensiveRepositoryExpander()
+            result = await expander.expand_repository()
+            
+            # Enhanced response with comprehensive results
+            return {
+                "message": "Comprehensive repository expansion completed successfully!",
+                "expansion_type": "MULTI_PHASE_COMPREHENSIVE",
+                "target_documents": 100000,
+                "actual_documents_added": result["expansion_summary"]["total_documents_added"],
+                "target_achievement_percentage": result["expansion_summary"]["target_achievement"],
+                "runtime_hours": result["expansion_summary"]["runtime_hours"],
+                "success": result["expansion_summary"]["success"],
+                
+                "phase_breakdown": {
+                    "phase_1_courtlistener": {
+                        "documents": result["phase_breakdown"]["courtlistener_bulk"],
+                        "description": "CourtListener API with key rotation",
+                        "target": 25000
+                    },
+                    "phase_2_web_research": {
+                        "documents": result["phase_breakdown"]["web_research"],
+                        "description": "Federal courts, government, academic sources",
+                        "target": 35000
+                    },
+                    "phase_3_synthetic": {
+                        "documents": result["phase_breakdown"]["synthetic_generation"],
+                        "description": "High-quality synthetic legal documents",
+                        "target": 40000
+                    }
+                },
+                
+                "source_distribution": result["source_distribution"],
+                "year_distribution": result["year_distribution"],
+                
+                "api_performance": {
+                    "courtlistener_keys_used": result["api_performance"]["keys_used"],
+                    "total_api_requests": result["api_performance"]["total_requests"],
+                    "api_failure_rate": f"{(result['api_performance']['total_failures'] / max(1, result['api_performance']['total_requests'])) * 100:.1f}%"
+                },
+                
+                "quality_assurance": result["quality_assurance"],
+                
+                "repository_structure": {
+                    "maintains_date_organization": True,
+                    "max_files_per_directory": 999,
+                    "batch_organization": True,
+                    "mongodb_integration": True
+                },
+                
+                "expansion_features": [
+                    "Multi-API Key Rotation for Fault Tolerance",
+                    "Court Hierarchy Prioritization (Supreme → Circuit → District)",
+                    "Quality Filters (Min 500-1500 words per document)",
+                    "Duplicate Detection and Prevention",
+                    "Real-time Progress Tracking",
+                    "Checkpoint/Resume Capability",
+                    "MongoDB Integration with Optimized Indexes",
+                    "Organized Directory Structure Maintenance",
+                    "Comprehensive Error Handling and Recovery"
+                ],
+                
+                "next_steps": result["next_steps"],
+                "errors": result.get("errors", []),
+                "timestamp": datetime.utcnow().isoformat()
+            }
+            
+        except Exception as e:
+            logger.error(f"Error in comprehensive repository expansion: {e}", exc_info=True)
+            raise HTTPException(
+                status_code=500,
+                detail=f"Error in comprehensive repository expansion: {str(e)}"
+            )
 
 else:
     # Fallback endpoints when RAG system is not available
