@@ -986,6 +986,123 @@ class EnhancedLegalExpansionSystem:
         
         return min(1.0, score)
 
+    def _determine_jurisdiction_cl(self, court_info: str) -> str:
+        """Determine jurisdiction from CourtListener court info"""
+        if any(term in court_info.lower() for term in ['supreme court', 'scotus']):
+            return 'us_federal'
+        elif any(term in court_info.lower() for term in ['circuit', 'court of appeals']):
+            return 'us_federal'
+        elif 'district' in court_info.lower():
+            return 'us_federal'
+        else:
+            return 'us_state'
+
+    def _determine_court_level_cl(self, court_info: str) -> str:
+        """Determine court level from CourtListener court info"""
+        if any(term in court_info.lower() for term in ['supreme court', 'scotus']):
+            return 'supreme'
+        elif any(term in court_info.lower() for term in ['circuit', 'court of appeals']):
+            return 'appellate'
+        else:
+            return 'trial'
+
+    def _extract_attorneys_cl(self, result: Dict) -> List[Dict]:
+        """Extract attorneys from CourtListener result"""
+        attorneys = []
+        attorney_info = result.get('attorney', [])
+        for attorney in attorney_info:
+            attorneys.append({
+                "name": attorney.get('name', 'Unknown Attorney'),
+                "firm": attorney.get('firm', ''),
+                "role": attorney.get('role', 'Attorney'),
+                "bar_number": attorney.get('bar_number', '')
+            })
+        return attorneys
+
+    def _calculate_quality_score_cl(self, content: str, result: Dict) -> float:
+        """Calculate quality score for CourtListener document"""
+        score = 0.6  # Base score for CourtListener
+        
+        # Word count factor
+        word_count = len(content.split())
+        if word_count > 5000:
+            score += 0.2
+        elif word_count > 2000:
+            score += 0.1
+        
+        # Precedential status
+        if result.get('status') == 'Precedential':
+            score += 0.1
+        
+        # Court level factor
+        court_info = result.get('court', '')
+        if 'supreme' in court_info.lower():
+            score += 0.1
+        
+        return min(1.0, score)
+
+    def _extract_court_from_title(self, title: str) -> str:
+        """Extract court name from title"""
+        title_lower = title.lower()
+        if 'supreme court' in title_lower:
+            return 'Supreme Court'
+        elif 'circuit' in title_lower:
+            return 'Court of Appeals'
+        elif 'district' in title_lower:
+            return 'District Court'
+        else:
+            return 'Federal Court'
+
+    def _determine_court_level_from_title(self, title: str) -> str:
+        """Determine court level from title"""
+        title_lower = title.lower()
+        if 'supreme court' in title_lower:
+            return 'supreme'
+        elif any(term in title_lower for term in ['circuit', 'appeals']):
+            return 'appellate'
+        else:
+            return 'trial'
+
+    def _extract_judges_from_content(self, content: str) -> List[str]:
+        """Extract judges from content"""
+        judges = []
+        # Simple pattern matching for judge names
+        judge_patterns = [
+            r'(?:Chief )?Justice (\w+)',
+            r'Judge (\w+)',
+            r'(\w+), (?:Chief )?J\.',
+            r'(\w+), Circuit Judge'
+        ]
+        
+        for pattern in judge_patterns:
+            matches = re.findall(pattern, content, re.IGNORECASE)
+            judges.extend(matches)
+        
+        # Remove duplicates and clean up
+        unique_judges = list(set(judges))
+        return [f"Judge {judge}" for judge in unique_judges[:5]]  # Limit to 5 judges
+
+    def _calculate_quality_score_archive(self, content: str, metadata: Dict) -> float:
+        """Calculate quality score for Archive.org document"""
+        score = 0.4  # Base score for Archive.org
+        
+        # Word count factor
+        word_count = len(content.split())
+        if word_count > 3000:
+            score += 0.3
+        elif word_count > 1500:
+            score += 0.2
+        
+        # Metadata richness
+        if metadata.get('creator'):
+            score += 0.1
+        if metadata.get('subject'):
+            score += 0.1
+        if metadata.get('date'):
+            score += 0.1
+        
+        return min(1.0, score)
+
     def _get_date_range_folder(self, year: int) -> str:
         """Get date range folder for year"""
         if year <= 2018:
